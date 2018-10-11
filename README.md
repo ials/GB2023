@@ -19,18 +19,17 @@ Please take note that:
 - Hands-on exercises:
   - Lab 1       [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)  
 
-  
- ## Week 2 - Wednesday, 22 October 2018
+## Week 2 - Wednesday, 22 October 2018
  
-- Readings:
- 
-- Lectures:
-  Session 2- [Understanding Coordinate Systems and Map Projections] 
-  
 - Readings due for class:
     - Fundamentals of GIS - Chapter 13 of Avange & Kyalo (2013) 
     - Data models and structure - Chapter 14 of Avange & Kyalo (2013) 
     - Elements of Cartography - Chapter 2 of Gomarasca (2009)
+ 
+- Lectures:
+  Session 2- [Understanding Coordinate Systems and Map Projections] 
+  
+
 
 
 
