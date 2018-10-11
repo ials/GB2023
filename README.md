@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the Geomatics for Development website 
 
 You can use the [editor on GitHub](https://github.com/ials/g4d/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
