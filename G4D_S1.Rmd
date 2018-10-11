@@ -156,7 +156,7 @@ background-position: 50% 80%
 
 ---
 
-background-image: url(images/gi_role.png)
+background-image: url(images/gi_role.PNG)
 background-size: 600px
 background-position: 50% 60%
 
