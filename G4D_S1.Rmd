@@ -22,7 +22,7 @@ options(htmltools.dir.version = FALSE)
 ```{r xaringan-themer, include = FALSE}
 library(xaringanthemer)
 mono_light(
-  base_color  = "#4caf50",
+  base_color  = "#23395b",
   link_color =  "#FF0000",
   header_font_google = google_font("Josefin Sans"),
   text_font_google   = google_font("Montserrat", "300", "300i"),
@@ -40,15 +40,12 @@ background-position: 50% 80%
 ---
 
 # Agenda
-========================================================
   
-Lecture contents:
+1. Why monitor society and the environment? (Avange & Kyalo, 2013 – Ch. 1)
 
-1. Why monitor society and the environment? (Avange & Kyalo, 2013 – Chapter 1)
+1. Geodata and Geoinformatics (Avange & Kyalo, 2013 – Ch. 2)
 
-1. Geodata and Geoinformatics (Avange & Kyalo, 2013 – Chapter 2)
-
-1. From real world to geodata
+1. From real-world to geodata
 
 1. Example of research initiatives & groups:
 
@@ -78,8 +75,8 @@ background-size: 450px
 background-position: 50% 90%
 
 # Geoinformatics and Environmental Monitoring 
-========================================================
--  Geoinformatics could provide efficient methods for measuring, processing and interpreting __spatial environmental changes__ 
+
+Geoinformatics could provide efficient methods for measuring, processing and interpreting __spatial environmental changes__ 
     
 ---
 
