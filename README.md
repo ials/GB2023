@@ -10,9 +10,9 @@ Please take note that:
 ## Week 1 - Wednesday, 15 October 2018
 
 - Lectures:
-  - Session 0.  [Course Introduction](https://github.com/ials/G4D/blob/master/G4D_S0.html)
+  - Session 0.  [Course Introduction](https://github.com/ials/G4D/G4D_S0.html)
      
-  - Session 1.  [Monitoring society and the environment](https://github.com/ials/G4D/blob/master/G4D_S1.html)
+  - Session 1.  [Monitoring society and the environment](https://github.com/ials/G4D/G4D_S1.html)
 
 
 - Assignment Given (Due by 2:00 pm on 21 November 2018):  [Assignment 1](https://ials.github.io/G4D/G4D_A1.html)
