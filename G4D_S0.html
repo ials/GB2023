@@ -198,8 +198,8 @@ library(leaflet)
 leaflet() %&gt;% addTiles() %&gt;% setView(8.678254, 50.587573, zoom = 50)
 ```
 
-<div id="htmlwidget-c2385476338e406429fa" style="width:100%;height:432px;" class="leaflet html-widget"></div>
-<script type="application/json" data-for="htmlwidget-c2385476338e406429fa">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"http://openstreetmap.org\">OpenStreetMap<\/a> contributors, <a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA<\/a>"}]}],"setView":[[50.587573,8.678254],50,[]]},"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-b2f6438a9e33b991d8d2" style="width:100%;height:432px;" class="leaflet html-widget"></div>
+<script type="application/json" data-for="htmlwidget-b2f6438a9e33b991d8d2">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"http://openstreetmap.org\">OpenStreetMap<\/a> contributors, <a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA<\/a>"}]}],"setView":[[50.587573,8.678254],50,[]]},"evals":[],"jsHooks":[]}</script>
 ---
 # Geocoding with R
 
@@ -230,8 +230,8 @@ source("code/geocode.R")
 
 ```
 ##                     address       lon      lat   elapsed_time
-## 1   Berliner Platz, Giessen  8.856687 50.49304 0.3299980 secs
-## 2 Brandenburger Tor, Berlin 13.377703 52.51628 0.2244399 secs
+## 1   Berliner Platz, Giessen  8.856687 50.49304 0.3595009 secs
+## 2 Brandenburger Tor, Berlin 13.377703 52.51628 0.2179570 secs
 ```
 ---
 
@@ -243,8 +243,8 @@ m &lt;- leaflet() %&gt;%
 m  # Print the map
 ```
 
-<div id="htmlwidget-f597d650f903334f93d6" style="width:100%;height:432px;" class="leaflet html-widget"></div>
-<script type="application/json" data-for="htmlwidget-f597d650f903334f93d6">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"http://openstreetmap.org\">OpenStreetMap<\/a> contributors, <a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA<\/a>"}]},{"method":"addMarkers","args":[50.587573,8.678254,null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},"The Zentrum für internationale Entwicklungs- und Umweltforschung",null,null,null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]}],"limits":{"lat":[50.587573,50.587573],"lng":[8.678254,8.678254]}},"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-9145503e30653c456d07" style="width:100%;height:432px;" class="leaflet html-widget"></div>
+<script type="application/json" data-for="htmlwidget-9145503e30653c456d07">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"http://openstreetmap.org\">OpenStreetMap<\/a> contributors, <a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA<\/a>"}]},{"method":"addMarkers","args":[50.587573,8.678254,null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},"The Zentrum für internationale Entwicklungs- und Umweltforschung",null,null,null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]}],"limits":{"lat":[50.587573,50.587573],"lng":[8.678254,8.678254]}},"evals":[],"jsHooks":[]}</script>
 ---
 class: inverse, middle, center
 # What's next? 
@@ -292,10 +292,13 @@ background-position: 90% 8%
 
 # Assignments
 ========================================================
-1. To reproduce a published research in your computer
-  -  ...
-1. To publish a reproducible research report
-  -  ...
+1. To write a __RMarkdown__ report illustrating how to publish interactive maps using R. A couple of examples:
+  - [Publishing maps to the web](https://nceas.github.io/oss-lessons/publishing-maps-to-the-web-in-r/publishing-maps-to-the-web-in-r.html)
+  -[Maps in R](https://people.ohio.edu/ruhil/Rbook/maps-in-r.html)
+1. To write a __RMarkdown__ report illustrating how to produce interactive charts and maps of demographic data in R 
+  -  Please include the examples explained in [this paper from Kyle E. Walker (2016)](https://link.springer.com/article/10.1007/s40980-016-0029-1)
+  
+NOTE:  Please use data sets your area of interest
 
 ---
  
@@ -311,9 +314,9 @@ Some guidelines:
 
 A study can be truly reproducible when:
 
-– All methods are fully reported.
-– All data and files used for the analysis are (publicly) available.
-– The process of analyzing raw data is well reported and preserved.
+- All methods are fully reported.
+- All data and files used for the analysis are (publicly) available.
+- The process of analyzing raw data is well reported and preserved.
 
 ---
 background-image: url(https://theodi.org/wp-content/uploads/2018/02/HOMEPAGE-BG-ANM-3.svg)

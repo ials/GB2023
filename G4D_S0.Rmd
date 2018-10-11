@@ -258,10 +258,13 @@ background-position: 90% 8%
 
 # Assignments
 ========================================================
-1. To reproduce a published research in your computer
-  -  ...
-1. To publish a reproducible research report
-  -  ...
+1. To write a __RMarkdown__ report illustrating how to publish interactive maps using R. A couple of examples:
+  - [Publishing maps to the web](https://nceas.github.io/oss-lessons/publishing-maps-to-the-web-in-r/publishing-maps-to-the-web-in-r.html)
+  -[Maps in R](https://people.ohio.edu/ruhil/Rbook/maps-in-r.html)
+1. To write a __RMarkdown__ report illustrating how to produce interactive charts and maps of demographic data in R 
+  -  Please include the examples explained in [this paper from Kyle E. Walker (2016)](https://link.springer.com/article/10.1007/s40980-016-0029-1)
+  
+NOTE:  Please use data sets your area of interest
 
 ---
  
@@ -277,9 +280,9 @@ Some guidelines:
 
 A study can be truly reproducible when:
 
-– All methods are fully reported.
-– All data and files used for the analysis are (publicly) available.
-– The process of analyzing raw data is well reported and preserved.
+- All methods are fully reported.
+- All data and files used for the analysis are (publicly) available.
+- The process of analyzing raw data is well reported and preserved.
 
 ---
 background-image: url(https://theodi.org/wp-content/uploads/2018/02/HOMEPAGE-BG-ANM-3.svg)
