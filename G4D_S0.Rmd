@@ -1,0 +1,289 @@
+---
+title: "Geomatics for Development"
+subtitle: "Lecture 0"
+author: "Ivan Lizarazo"
+date: "2018-10-17 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: xaringan-themer.css
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+options(htmltools.dir.version = FALSE)
+```
+
+
+```{r xaringan-themer, include = FALSE}
+library(xaringanthemer)
+mono_light(
+  base_color  = "#23395b",
+  link_color =  "#FF0000",
+  header_font_google = google_font("Josefin Sans"),
+  text_font_google   = google_font("Montserrat", "300", "300i"),
+  code_font_google   = google_font("Droid Mono")
+)
+```
+
+## What are we trying to accomplish?
+
+Explore how geomatics could support Sustainable Development Goals:
+ 
+[Mapping Data from Eurostat using R](https://rpubs.com/adam_dennett/8955)
+
+[Mapping the global potential for marine aquaculture](https://jafflerbach.github.io/spatial-analysis-R/intro_spatial_data_R.html#)
+
+---
+
+class: inverse, middle, center
+background-image: url(https://theodi.org/wp-content/uploads/2018/02/HOMEPAGE-BG-ANM-3.svg)
+background-size: contain
+
+# Let's get started
+
+---
+
+# Agenda
+========================================================
+  
+  
+- Course overview 
+
+- What's geomatics?
+
+- What's sustainable development?
+
+- Which software tools?
+
+- What's next? 
+
+---
+class: inverse, middle, center
+
+# Course Overview
+
+---
+# How this class will work
+========================================================
+- No programming knowledge presumed
+
+- Some GIS knowledge is preferred  
+
+- Class attendance is mandatory
+
+- Class will be _very_ cumulative
+
+---
+
+# Mechanics
+========================================================
+- A  weekly lecture: 
+  - First half: concepts, methods, examples
+  - Last half:  labs
+  
+- A weekly lab (DataCamp)  (25%)
+
+- Two assignments (25%)
+
+- Final project   (50%)
+    - To pass the class,  the minimum score is 30/50
+    
+---
+
+# Mechanics   
+========================================================
+- Weekly Lab (25%) 
+  - Labs: Each DataCamp lab should be completed within one week.
+  - Late completion of any lab __will reduce half percent its mark__
+  
+- Monthly Assignments (HW) (25%)
+  - There will be <b>2</b> monthly HW 
+  - HW assigned on Wednesdays, __due on Wednesdays at 2:00pm__
+  - Late homework __will receive half percent of its mark__
+  
+- Final project (50%)
+  - A report applying geomatics to  address a sustainable development issue in your region
+
+---
+class: inverse, middle, center
+
+# What's geomatics?
+
+---
+
+background-image: url(images/earth-sciences.jpg)
+background-size: 800px
+background-position: 50% 90%
+
+# A fancy word for the automation of geography?
+
+The science and technology of gathering, storing, processing, modeling, analyzing, and delivering spatially referenced information [(Natural Resources Canada)](https://www.nrcan.gc.ca/earth-sciences/geomatics/10776). 
+
+Geomatics integrates several disciplines to create an understandable picture of the physical world and our place in it:
+1.  geodesy & surveying
+1.  mapping
+1.  remote sensing
+1.  geographic information systems (GIS)
+1.  global navegation satellite systems (GPS)
+
+
+---
+
+class: inverse, middle, center
+# What's development?
+
+---
+
+background-image: url(images/logo-vertical.png)
+background-size: 300px
+background-position: 50% 100%
+
+# Sustainable development 
+
+"Development which meets the needs of the present without compromising the ability of future generations to meet their own needs" (the Brundtland Commission, 1987)
+
+“Sustainable development is an exceptional opportunity – economically, to build markets and create jobs; socially, to bring people in from the margins; and politically, to give every man and woman a voice, and a choice, in deciding their own future” (Kofi Annan)
+
+Sustainable development can be understood as  a process  and as implying practical goals or desirable outcomes, such as the UN Sustainable Development Goals (SDG) agreed in 2015.
+
+
+---
+background-image: url(images/sdgs-graphics.png)
+background-size: 600px
+background-position: 50% 80%
+
+# 17 SDG goals, 169 targets and 232 indicators
+
+[See UNSTATS website](https://unstats.un.org/sdgs/indicators/Global%20Indicator%20Framework%20after%20refinement_Eng.pdf)
+
+---
+
+background-image: url(images/sustainable_triangle.png)
+background-size: 600px
+background-position: 40% 70%
+
+## A variety of perspectives
+
+[Germany's National Sustainable Development Strategy](https://archiv.bundesregierung.de/archiv-de/meta/startseite/germany-s-national-sustainable-development-strategy-276504)
+
+---
+
+class: inverse, middle, center
+
+# Which  software tools?
+
+---
+background-image: url(https://www.r-project.org/logo/Rlogo.svg)
+background-size: 250px
+background-position: 40% 70%
+
+# Open source geospatial tools
+
+- R & RStudio (mostly)
+- QGIS,  SAGA GIS (sometimes)
+
+---
+# Interactive mapping with R
+
+```{r out.width='100%', fig.height=6, eval=require('leaflet')}
+library(leaflet)
+leaflet() %>% addTiles() %>% setView(8.678254, 50.587573, zoom = 50)
+```
+---
+# Geocoding with R
+
+- Let's illustrate a geocoding function using OpenStreetMap Nominatim API
+- We want to know location of  Berliner Platz (Giessen) and Brandenburger Tor (Berlin)
+
+```{r geocode, include=TRUE}
+source("/users/ivanlizarazo/documents/jlu/g4d/lectures/geocode.R")
+```
+---
+
+```{r out.width='100%', fig.height=6, eval=require('leaflet')}
+m <- leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addMarkers(lng=8.678254, lat=50.587573, popup="The Zentrum für internationale Entwicklungs- und Umweltforschung")
+m  # Print the map
+```
+---
+class: inverse, middle, center
+# What's next? 
+
+---
+background-image: url(images/peru_amazon.jpg)
+background-size: 200px
+background-position: 90% 0%
+
+# Upcoming Lectures
+========================================================
+1. Relevance of geomatics to monitor society and landscapes
+1. Understanding Coordinate Systems and Map Projections
+1.  Global Navegation Satellite Systems (GNSS)
+1. Tabular Data
+1. Spatial operations
+1. Geometric operations
+1. Mapping
+1. Scripts, algorithms and functions
+1. Remote Sensing I
+1. Remote Sensing II
+1. Applications
+1. Territorial Analysis
+
+---
+background-image: url(https://cdn.datacamp.com/main-app/assets/brand/logos/DataCamp_Horizontal_CMYK-cfbb13fb573659c595fb476f0236ef1cff6291f15b91415d76a4810dedb3d181.svg)
+background-size: 300px
+background-position: 90% 8%
+
+# Upcoming Labs
+========================================================
+1. Introduction to R
+1. Data Visualization with ggplot2 (Part 1)
+1.  Working with Geospatial Data in R
+1. Spatial Analysis in R with sf and raster
+1. Intermediate R
+1. Interactive Maps with leaflet in R
+1. Introduction to the Tidyverse
+
+---
+
+background-image: url(https://cdn.datacamp.com/main-app/assets/brand/logos/DataCamp_Horizontal_CMYK-cfbb13fb573659c595fb476f0236ef1cff6291f15b91415d76a4810dedb3d181.svg)
+background-size: 300px
+background-position: 90% 8%
+
+# Assignments
+========================================================
+1. To reproduce a published research in your computer
+  -  ...
+1. To reproduce a published research in your computer
+  -  ...
+
+---
+ 
+# Final Project
+========================================================
+
+Write a **reproducible** paper to address and/or report any topic related to sustainable development
+
+Some guidelines:
+
+- focus on a single SDG goal
+- look into a region or a country
+
+A study can be truly reproducible when:
+
+– All methods are fully reported.
+– All data and files used for the analysis are (publicly) available.
+– The process of analyzing raw data is well reported and preserved.
+
+---
+background-image: url(https://theodi.org/wp-content/uploads/2018/02/HOMEPAGE-BG-ANM-3.svg)
+background-size: contain
+class: center, middle
+
+# Thanks!
