@@ -3,9 +3,9 @@
 Here is the outline of the topics, readings, and assignments for our course. 
 
 Please take note that:
-Readings should be done before the session that they are listed for. 
-Assignments sould be turned in before the due data at the time stated.
-Labs should be completed within one week.
+- Readings should be done before the session that they are listed for. 
+- Assignments sould be turned in before the due data at the time stated.
+- Labs should be completed within one week.
 
 ## Week 1 - Wednesday, 15 October 2018
 
