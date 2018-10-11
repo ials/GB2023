@@ -11,9 +11,9 @@ Here is the outline of the topics for our first session:
 
 ### Lectures:
 
-- Session 0. [Course Introduction](https:/ials.github.io/G4D/G4_S0.html)
+- Session 0. [Course Introduction](https://ials.github.com/G4D/G4D_S0.html)
 
-- Session 1. [Monitoring society and the environment](https:/ials.github.io/G4D/G4_S1.html)
+- Session 1. [Monitoring society and the environment](https://ials.github.io/G4D/G4D_S1.html)
 
 ### Assignment will be given: 
 - Due by 2:00 pm on 21 November 2018: 
