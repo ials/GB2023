@@ -11,7 +11,7 @@ Please take note that:
 
 - Lectures:
   - Session 0.  [Course Introduction](https://ials.github.io/G4D/G4D_S0.html)
-  - Session 1.  [Monitoring society and the environment](https://ials.github.io/g4d/G4D_S1.html)
+  - Session 1.  [Monitoring society and the environment](https://ials.github.io/G4D/G4D_S1.html)
 
 
 - Assignment Given (Due by 2:00 pm on 21 November 2018):  [Assignment 1](https://ials.github.io/G4D/G4D_A1.html)
