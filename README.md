@@ -10,10 +10,11 @@ Please take note that:
 ## Week 1 - Wednesday, 15 October 2018
 
 - Lectures:
-  - Session 0.  [Course Introduction](https://ials.github.io/g4d/G4D_S0.html)
+  - Session 0.  [Course Introduction](https://ials.github.io/G4D/G4D_S0.html)
   - Session 1.  [Monitoring society and the environment](https://ials.github.io/g4d/G4D_S1.html)
-  
-- Assignment Given (Due by 2:00 pm on 21 November 2018):  [Assignment 1]https://ials.github.io/g4d/G4D_A1.html)
+
+
+- Assignment Given (Due by 2:00 pm on 21 November 2018):  [Assignment 1](https://ials.github.io/G4D/G4D_A1.html)
 
 - Hands-on exercises:
   - Lab 1       [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)  
@@ -26,7 +27,7 @@ Please take note that:
     - Elements of Cartography - Chapter 2 of Gomarasca (2009)
  
 - Lectures:
-  Session 2- [Understanding Coordinate Systems and Map Projections] 
+  Session 2- [Understanding Coordinate Systems and Map Projections](https://ials.github.io/G4D/G4D_S2.html) 
   
 
 
