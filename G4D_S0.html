@@ -1,34 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Geomatics for Development</title>
+    <meta charset="utf-8">
+    <meta name="author" content="Ivan Lizarazo" />
+    <script src="libs/htmlwidgets/htmlwidgets.js"></script>
+    <script src="libs/jquery/jquery.min.js"></script>
+    <link href="libs/leaflet/leaflet.css" rel="stylesheet" />
+    <script src="libs/leaflet/leaflet.js"></script>
+    <link href="libs/leafletfix/leafletfix.css" rel="stylesheet" />
+    <script src="libs/Proj4Leaflet/proj4-compressed.js"></script>
+    <script src="libs/Proj4Leaflet/proj4leaflet.js"></script>
+    <link href="libs/rstudio_leaflet/rstudio_leaflet.css" rel="stylesheet" />
+    <script src="libs/leaflet-binding/leaflet.js"></script>
+    <link rel="stylesheet" href="xaringan-themer.css" type="text/css" />
+  </head>
+  <body>
+    <textarea id="source">
+class: center, middle, inverse, title-slide
+
+# Geomatics for Development
+## Lecture 0
+### Ivan Lizarazo
+### 2018-10-17 (updated: 2018-10-11)
+
 ---
-title: "Geomatics for Development"
-subtitle: "Lecture 0"
-author: "Ivan Lizarazo"
-date: "2018-10-17 (updated: `r Sys.Date()`)"
-output:
-  xaringan::moon_reader:
-    lib_dir: libs
-    css: xaringan-themer.css
-    nature:
-      highlightStyle: github
-      highlightLines: true
-      countIncrementalSlides: false
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-options(htmltools.dir.version = FALSE)
-```
 
 
-```{r xaringan-themer, include = FALSE}
-library(xaringanthemer)
-mono_light(
-  base_color  = "#23395b",
-  link_color =  "#FF0000",
-  header_font_google = google_font("Josefin Sans"),
-  text_font_google   = google_font("Montserrat", "300", "300i"),
-  code_font_google   = google_font("Droid Mono")
-)
-```
+
+
+
+
 
 ## What are we trying to accomplish?
 
@@ -102,7 +104,7 @@ class: inverse, middle, center
   - Late completion of any lab __will reduce half percent its mark__
   
 - Monthly Assignments (HW) (25%)
-  - There will be <b>2</b> monthly HW 
+  - There will be &lt;b&gt;2&lt;/b&gt; monthly HW 
   - HW assigned on Wednesdays, __due on Wednesdays at 2:00pm__
   - Late homework __will receive half percent of its mark__
   
@@ -125,7 +127,7 @@ background-position: 50% 90%
 The science and technology of gathering, storing, processing, modeling, analyzing, and delivering spatially referenced information [(Natural Resources Canada)](https://www.nrcan.gc.ca/earth-sciences/geomatics/10776). 
 
 Geomatics integrates several disciplines to create an understandable picture of the physical world and our place in it:
-1.  geodesy & surveying
+1.  geodesy &amp; surveying
 1.  mapping
 1.  remote sensing
 1.  geographic information systems (GIS)
@@ -184,33 +186,65 @@ background-position: 40% 70%
 
 # Open source geospatial tools
 
-- R & RStudio (mostly)
+- R &amp; RStudio (mostly)
 - QGIS,  SAGA GIS (sometimes)
 
 ---
 # Interactive mapping with R
 
-```{r out.width='100%', fig.height=6, eval=require('leaflet')}
+
+```r
 library(leaflet)
-leaflet() %>% addTiles() %>% setView(8.678254, 50.587573, zoom = 50)
+leaflet() %&gt;% addTiles() %&gt;% setView(8.678254, 50.587573, zoom = 50)
 ```
+
+<div id="htmlwidget-c2385476338e406429fa" style="width:100%;height:432px;" class="leaflet html-widget"></div>
+<script type="application/json" data-for="htmlwidget-c2385476338e406429fa">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"http://openstreetmap.org\">OpenStreetMap<\/a> contributors, <a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA<\/a>"}]}],"setView":[[50.587573,8.678254],50,[]]},"evals":[],"jsHooks":[]}</script>
 ---
 # Geocoding with R
 
 - Let's illustrate a geocoding function using OpenStreetMap Nominatim API
 - We want to know location of  Berliner Platz (Giessen) and Brandenburger Tor (Berlin)
 
-```{r geocode, include=TRUE}
+
+```r
 source("code/geocode.R")
+```
+
+```
+## 
+## Attaching package: 'dplyr'
+```
+
+```
+## The following objects are masked from 'package:stats':
+## 
+##     filter, lag
+```
+
+```
+## The following objects are masked from 'package:base':
+## 
+##     intersect, setdiff, setequal, union
+```
+
+```
+##                     address       lon      lat   elapsed_time
+## 1   Berliner Platz, Giessen  8.856687 50.49304 0.3299980 secs
+## 2 Brandenburger Tor, Berlin 13.377703 52.51628 0.2244399 secs
 ```
 ---
 
-```{r out.width='100%', fig.height=6, eval=require('leaflet')}
-m <- leaflet() %>%
-  addTiles() %>%  # Add default OpenStreetMap map tiles
+
+```r
+m &lt;- leaflet() %&gt;%
+  addTiles() %&gt;%  # Add default OpenStreetMap map tiles
   addMarkers(lng=8.678254, lat=50.587573, popup="The Zentrum für internationale Entwicklungs- und Umweltforschung")
 m  # Print the map
 ```
+
+<div id="htmlwidget-f597d650f903334f93d6" style="width:100%;height:432px;" class="leaflet html-widget"></div>
+<script type="application/json" data-for="htmlwidget-f597d650f903334f93d6">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"http://openstreetmap.org\">OpenStreetMap<\/a> contributors, <a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA<\/a>"}]},{"method":"addMarkers","args":[50.587573,8.678254,null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},"The Zentrum für internationale Entwicklungs- und Umweltforschung",null,null,null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]}],"limits":{"lat":[50.587573,50.587573],"lng":[8.678254,8.678254]}},"evals":[],"jsHooks":[]}</script>
 ---
 class: inverse, middle, center
 # What's next? 
@@ -287,3 +321,51 @@ background-size: contain
 class: center, middle
 
 # Thanks!
+    </textarea>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+<script>var slideshow = remark.create({
+"highlightStyle": "github",
+"highlightLines": true,
+"countIncrementalSlides": false
+});
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
+  window.dispatchEvent(new Event('resize'));
+});
+(function() {
+  var d = document, s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+  if (!r) return;
+  s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
+  d.head.appendChild(s);
+})();</script>
+
+<script>
+(function() {
+  var i, text, code, codes = document.getElementsByTagName('code');
+  for (i = 0; i < codes.length;) {
+    code = codes[i];
+    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+      text = code.textContent;
+      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
+          /^\$\$(.|\s)+\$\$$/.test(text) ||
+          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+        code.outerHTML = code.innerHTML;  // remove <code></code>
+        continue;
+      }
+    }
+    i++;
+  }
+})();
+</script>
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+(function () {
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src  = 'https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML';
+  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
+    script.src  = script.src.replace(/^https?:/, '');
+  document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+  </body>
+</html>
