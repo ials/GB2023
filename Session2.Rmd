@@ -1,0 +1,33 @@
+---
+title: "Session 2 - Wednesday, 24 October 2018"
+output:
+  html_document:
+    df_print: paged
+---
+
+Here is the outline of the topics for this session:
+
+### Readings due for this session:
+
+Please read the following documents before the session starts:
+
+- Fundamentals of GIS - Ch. 13 of **Environmental Geoinformatics** (Avange & Kyalo,  2013)
+
+- Data models and structure - Ch. 14 of **Environmental Geoinformatics** (Avange & Kyalo,  2013)
+
+- Elements of Cartography - Ch. 2 of **Basics of Geomatics** (Gomarasca, 2009) (from section 2.2 to section 2.13)
+
+### Lectures:
+
+- Session 2. [Understanding Coordinate Systems and Map Projections](https://ials.github.com/G4D/G4D_S2.html)
+
+### Hands-on exercises:
+
+- [Geographic data in R](https://geocompr.robinlovelace.net/spatial-class.html)
+ 
+- [Reprojecting geographic data](https://geocompr.robinlovelace.net/reproj-geo-data.html)
+
+
+
+
+
