@@ -1,0 +1,143 @@
+---
+title: "Geomatics for Development"
+subtitle: "Lecture 2"
+author: "Ivan Lizarazo"
+date: "2018-10-24 (updated: `r Sys.Date()`)"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: xaringan-themer.css
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+options(htmltools.dir.version = FALSE)
+```
+
+
+```{r xaringan-themer, include = FALSE}
+library(xaringanthemer)
+mono_light(
+  base_color  = "#23395b",
+  link_color =  "#FF0000",
+  header_font_google = google_font("Josefin Sans"),
+  text_font_google   = google_font("Montserrat", "300", "300i"),
+  code_font_google   = google_font("Droid Mono")
+)
+```
+
+class: inverse, middle, center
+background-image: url(images/tower_crane.jpg)
+background-size: 300px
+background-position: 50% 50%
+
+---
+
+# Agenda
+
+1. Coordinate Systems
+
+1. Reference Surfaces
+
+1. Map Projections
+
+1. Coordinate transformations
+  
+---
+class: inverse, middle, center
+
+# Reference Surfaces
+
+---
+background-image: url(images/cross_section.jpg)
+background-size: 400px
+background-position: 50% 80%
+# Earth's surfaces
+
+- Ellipsoid
+
+- Geoid
+
+- Mean Sea Level
+
+- Terrain
+---
+class: inverse, middle, center
+
+# Earth Datums
+
+---
+
+background-image: url(images/earth_true_shape.png)
+background-size: 400px
+background-position: 50% 90%
+# Earth's Datums
+
+- Local or Regional Datums
+
+
+---
+
+background-image: url(images/geocentric.jpg)
+background-size: 400px
+background-position: 50% 70%
+
+# Geocentric Datums 
+    
+---
+
+class: inverse, middle, center
+
+# Coordinate Systems 
+
+---
+
+
+background-image: url(images/globe_2.jpg)
+background-size: 400px
+background-position: 50% 90%
+
+# Geographic Coordinates
+
+- Lines of latitude (parallels)
+
+- Lines of longitude (meridiams)
+
+
+---
+
+background-image: url(images/cylindrical.jpg)
+background-size: 400px
+background-position: 50% 70%
+# Map Projections
+
+- [Projections](https://www.icsm.gov.au/education/fundamentals-mapping/projections)
+
+---
+
+class: inverse, middle, center
+
+# Coordinate Transformations 
+
+---
+
+background-image: url(images/coordinate_transf.png)
+background-size: 600px
+background-position: 50% 60%
+# 
+
+[Coordinate Transformations](https://kartoweb.itc.nl/geometrics/Coordinate%20transformations/coordtrans.html)
+
+---
+class: middle, center
+
+background-image: url(images/spider.jpg)
+background-size: 200px
+background-position: 50% 80%
+
+
+# Thanks!
