@@ -22,7 +22,7 @@ class: center, middle, inverse, title-slide
 # Geomatics for Development
 ## Lecture 0
 ### Ivan Lizarazo
-### 2018-10-17 (updated: 2018-10-11)
+### 2018-10-17 (updated: 2018-10-15)
 
 ---
 
@@ -39,6 +39,10 @@ Explore how geomatics could support Sustainable Development Goals:
 [Mapping Data from Eurostat using R](https://rpubs.com/adam_dennett/8955)
 
 [Mapping the global potential for marine aquaculture](https://jafflerbach.github.io/spatial-analysis-R/intro_spatial_data_R.html#)
+
+[From R to interactive charts and maps](http://paldhous.github.io/NICAR/2017/r-to-javascript.html)
+
+[Our world is changing](https://ourworldindata.org/)
 
 ---
 
@@ -140,23 +144,25 @@ class: inverse, middle, center
 # What's development?
 
 ---
-
 background-image: url(images/logo-vertical.png)
-background-size: 300px
-background-position: 50% 100%
+background-size: 400px
+background-position: 50% 90%
 
 # Sustainable development 
+"Sustainable development is development that meets the needs of the present without compromising the ability of future generations to meet their own needs" (the Brundtland Commission, 1987)
 
-"Development which meets the needs of the present without compromising the ability of future generations to meet their own needs" (the Brundtland Commission, 1987)
-
-“Sustainable development is an exceptional opportunity – economically, to build markets and create jobs; socially, to bring people in from the margins; and politically, to give every man and woman a voice, and a choice, in deciding their own future” (Kofi Annan)
-
-Sustainable development can be understood as  a process  and as implying practical goals or desirable outcomes, such as the UN Sustainable Development Goals (SDG) agreed in 2015.
-
+Sustainable development can be understood as a process (including principles and values) and as implying practical goals or desirable outcomes, such as the UN Sustainable Development Goals being developed in 2015.
 
 ---
+
+background-image: url(images/SDG_definitions.png)
+background-size: 350px
+background-position: 50% 80%
+
+# What is to be sustained? 
+---
 background-image: url(images/sdgs-graphics.png)
-background-size: 600px
+background-size: 500px
 background-position: 50% 80%
 
 # 17 SDG goals, 169 targets and 232 indicators
@@ -190,6 +196,13 @@ background-position: 40% 70%
 - QGIS,  SAGA GIS (sometimes)
 
 ---
+background-image: url(images/life_expectancy.png)
+background-size: 550px
+background-position: 40% 70%
+
+##  [Using Maps and Data to look at the Geography of World Development by Richard Harris](https://rpubs.com/profrichharris/teaching-world-development)
+
+---
 # Interactive mapping with R
 
 
@@ -198,8 +211,8 @@ library(leaflet)
 leaflet() %&gt;% addTiles() %&gt;% setView(8.678254, 50.587573, zoom = 50)
 ```
 
-<div id="htmlwidget-b2f6438a9e33b991d8d2" style="width:100%;height:432px;" class="leaflet html-widget"></div>
-<script type="application/json" data-for="htmlwidget-b2f6438a9e33b991d8d2">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"http://openstreetmap.org\">OpenStreetMap<\/a> contributors, <a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA<\/a>"}]}],"setView":[[50.587573,8.678254],50,[]]},"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-a45d57997a91723e8f82" style="width:100%;height:432px;" class="leaflet html-widget"></div>
+<script type="application/json" data-for="htmlwidget-a45d57997a91723e8f82">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"http://openstreetmap.org\">OpenStreetMap<\/a> contributors, <a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA<\/a>"}]}],"setView":[[50.587573,8.678254],50,[]]},"evals":[],"jsHooks":[]}</script>
 ---
 # Geocoding with R
 
@@ -230,8 +243,8 @@ source("code/geocode.R")
 
 ```
 ##                     address       lon      lat   elapsed_time
-## 1   Berliner Platz, Giessen  8.856687 50.49304 0.3595009 secs
-## 2 Brandenburger Tor, Berlin 13.377703 52.51628 0.2179570 secs
+## 1   Berliner Platz, Giessen  8.856687 50.49304 0.8090119 secs
+## 2 Brandenburger Tor, Berlin 13.377703 52.51628 0.2093680 secs
 ```
 ---
 
@@ -243,8 +256,14 @@ m &lt;- leaflet() %&gt;%
 m  # Print the map
 ```
 
-<div id="htmlwidget-9145503e30653c456d07" style="width:100%;height:432px;" class="leaflet html-widget"></div>
-<script type="application/json" data-for="htmlwidget-9145503e30653c456d07">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"http://openstreetmap.org\">OpenStreetMap<\/a> contributors, <a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA<\/a>"}]},{"method":"addMarkers","args":[50.587573,8.678254,null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},"The Zentrum für internationale Entwicklungs- und Umweltforschung",null,null,null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]}],"limits":{"lat":[50.587573,50.587573],"lng":[8.678254,8.678254]}},"evals":[],"jsHooks":[]}</script>
+<div id="htmlwidget-9721d2ec95deb5818b41" style="width:100%;height:432px;" class="leaflet html-widget"></div>
+<script type="application/json" data-for="htmlwidget-9721d2ec95deb5818b41">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"http://openstreetmap.org\">OpenStreetMap<\/a> contributors, <a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA<\/a>"}]},{"method":"addMarkers","args":[50.587573,8.678254,null,null,null,{"interactive":true,"draggable":false,"keyboard":true,"title":"","alt":"","zIndexOffset":0,"opacity":1,"riseOnHover":false,"riseOffset":250},"The Zentrum für internationale Entwicklungs- und Umweltforschung",null,null,null,null,{"interactive":false,"permanent":false,"direction":"auto","opacity":1,"offset":[0,0],"textsize":"10px","textOnly":false,"className":"","sticky":true},null]}],"limits":{"lat":[50.587573,50.587573],"lng":[8.678254,8.678254]}},"evals":[],"jsHooks":[]}</script>
+---
+background-image: url(images/R_learning_curve.png)
+background-size: 500px
+background-position: 40% 70%
+
+##  R scripting
 ---
 class: inverse, middle, center
 # What's next? 

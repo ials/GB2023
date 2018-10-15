@@ -38,6 +38,10 @@ Explore how geomatics could support Sustainable Development Goals:
 
 [Mapping the global potential for marine aquaculture](https://jafflerbach.github.io/spatial-analysis-R/intro_spatial_data_R.html#)
 
+[From R to interactive charts and maps](http://paldhous.github.io/NICAR/2017/r-to-javascript.html)
+
+[Our world is changing](https://ourworldindata.org/)
+
 ---
 
 class: inverse, middle, center
@@ -138,23 +142,25 @@ class: inverse, middle, center
 # What's development?
 
 ---
-
 background-image: url(images/logo-vertical.png)
-background-size: 300px
-background-position: 50% 100%
+background-size: 400px
+background-position: 50% 90%
 
 # Sustainable development 
+"Sustainable development is development that meets the needs of the present without compromising the ability of future generations to meet their own needs" (the Brundtland Commission, 1987)
 
-"Development which meets the needs of the present without compromising the ability of future generations to meet their own needs" (the Brundtland Commission, 1987)
-
-“Sustainable development is an exceptional opportunity – economically, to build markets and create jobs; socially, to bring people in from the margins; and politically, to give every man and woman a voice, and a choice, in deciding their own future” (Kofi Annan)
-
-Sustainable development can be understood as  a process  and as implying practical goals or desirable outcomes, such as the UN Sustainable Development Goals (SDG) agreed in 2015.
-
+Sustainable development can be understood as a process (including principles and values) and as implying practical goals or desirable outcomes, such as the UN Sustainable Development Goals being developed in 2015.
 
 ---
+
+background-image: url(images/SDG_definitions.png)
+background-size: 350px
+background-position: 50% 80%
+
+# What is to be sustained? 
+---
 background-image: url(images/sdgs-graphics.png)
-background-size: 600px
+background-size: 500px
 background-position: 50% 80%
 
 # 17 SDG goals, 169 targets and 232 indicators
@@ -188,6 +194,13 @@ background-position: 40% 70%
 - QGIS,  SAGA GIS (sometimes)
 
 ---
+background-image: url(images/life_expectancy.png)
+background-size: 550px
+background-position: 40% 70%
+
+##  [Using Maps and Data to look at the Geography of World Development by Richard Harris](https://rpubs.com/profrichharris/teaching-world-development)
+
+---
 # Interactive mapping with R
 
 ```{r out.width='100%', fig.height=6, eval=require('leaflet')}
@@ -211,6 +224,12 @@ m <- leaflet() %>%
   addMarkers(lng=8.678254, lat=50.587573, popup="The Zentrum für internationale Entwicklungs- und Umweltforschung")
 m  # Print the map
 ```
+---
+background-image: url(images/R_learning_curve.png)
+background-size: 500px
+background-position: 40% 70%
+
+##  R scripting
 ---
 class: inverse, middle, center
 # What's next? 
