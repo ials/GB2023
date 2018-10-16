@@ -77,6 +77,15 @@ background-position: 50% 100%
 Geoinformatics could provide efficient methods for measuring, processing and interpreting __spatial environmental changes__ 
     
 ---
+background-image: url(images/data_science.png)
+background-size: 600px
+background-position: 50% 70%
+
+# Geoinformatics and Data Science 
+
+Geoinformatics could help to organizing and analyzing massive amounts of data   
+
+---
 
 class: inverse, middle, center
 

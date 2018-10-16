@@ -154,7 +154,7 @@ Sustainable development can be understood as a process (including principles and
 ---
 
 background-image: url(images/SDG_definitions.png)
-background-size: 350px
+background-size: 400px
 background-position: 50% 80%
 
 # What is to be sustained? 
@@ -189,16 +189,19 @@ background-size: 250px
 background-position: 40% 70%
 
 # Open source geospatial tools
-
 - R & RStudio (mostly)
 - QGIS,  SAGA GIS (sometimes)
 
 ---
-background-image: url(images/life_expectancy.png)
-background-size: 550px
-background-position: 40% 70%
+background-image: url(images/world_inequality.gif)
+background-size: 800px
+background-position: 40% 90%
 
-##  [Using Maps and Data to look at the Geography of World Development by Richard Harris](https://rpubs.com/profrichharris/teaching-world-development)
+### Geography of World Development with R
+
+- [World Inequality Map](http://freerangestats.info/blog/2016/07/02/ehii-map)
+
+- [Using Maps and Data to look at the Geography of World Development by Richard Harris](https://rpubs.com/profrichharris/teaching-world-development)
 
 ---
 # Interactive mapping with R
@@ -226,10 +229,10 @@ m  # Print the map
 ```
 ---
 background-image: url(images/R_learning_curve.png)
-background-size: 500px
+background-size: 700px
 background-position: 40% 70%
 
-##  R scripting
+##  R scripting - after Cory Merow -
 ---
 class: inverse, middle, center
 # What's next? 
@@ -279,11 +282,13 @@ background-position: 90% 8%
 ========================================================
 1. To write a __RMarkdown__ report illustrating how to publish interactive maps using R. A couple of examples:
   - [Publishing maps to the web](https://nceas.github.io/oss-lessons/publishing-maps-to-the-web-in-r/publishing-maps-to-the-web-in-r.html)
-  -[Maps in R](https://people.ohio.edu/ruhil/Rbook/maps-in-r.html)
+  
+  - [Maps in R](https://people.ohio.edu/ruhil/Rbook/maps-in-r.html)
+  
 1. To write a __RMarkdown__ report illustrating how to produce interactive charts and maps of demographic data in R 
   -  Please include the examples explained in [this paper from Kyle E. Walker (2016)](https://link.springer.com/article/10.1007/s40980-016-0029-1)
   
-NOTE:  Please use data sets your area of interest
+NOTE:  Please use data sets available for your area of interest
 
 ---
  
