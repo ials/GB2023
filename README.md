@@ -28,7 +28,7 @@ Please take note that:
     - Elements of Cartography - Chapter 2 of Gomarasca (2009)
  
 - Lectures:
-  - Session 2- Understanding Coordinate Systems and Map Projections  
+  - [Session 2- Understanding Coordinate Systems and Map Projections](https://ials.github.com/G4D/G4D_S2.html)
   
 
 
