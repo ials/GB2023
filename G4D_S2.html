@@ -13,7 +13,7 @@ class: center, middle, inverse, title-slide
 # Geomatics for Development
 ## Lecture 2
 ### Ivan Lizarazo
-### 2018-10-24 (updated: 2018-10-12)
+### 2018-10-24 (updated: 2018-10-18)
 
 ---
 
@@ -22,15 +22,10 @@ class: center, middle, inverse, title-slide
 
 
 
-
-class: inverse, middle, center
-background-image: url(images/tower_crane.jpg)
-background-size: 300px
-background-position: 50% 50%
-
----
 
 # Agenda
+
+1. GIS Data Types Revisited
 
 1. Coordinate Systems
 
@@ -39,6 +34,43 @@ background-position: 50% 50%
 1. Map Projections
 
 1. Coordinate transformations
+
+---
+
+class: inverse, middle, center
+
+# GIS Data Types Revisited
+
+---
+background-image: url(images/raster_vector.png)
+background-size: 600px
+background-position: 50% 80%
+
+[Vector vs Raster](http://gif.berkeley.edu/documents/GIS_Data_Formats.pdf)
+
+
+---
+
+class: inverse, middle, center
+
+# Coordinate Systems 
+
+---
+
+
+background-image: url(images/globe_2.jpg)
+background-size: 300px
+background-position: 50% 90%
+
+## [Coordinate Systems:](https://kartoweb.itc.nl/geometrics/Coordinate%20transformations/coordsys.html) 
+
+- Geographic Coordinates (3D, 2D)
+
+- Lines of latitude (parallels)
+
+- Lines of longitude (meridiams)
+
+- 3D Geocentric Coordinates (X, Y, Z) 
   
 ---
 class: inverse, middle, center
@@ -47,9 +79,9 @@ class: inverse, middle, center
 
 ---
 background-image: url(images/cross_section.jpg)
-background-size: 400px
+background-size: 500px
 background-position: 50% 80%
-# Earth's surfaces
+# [Earth's surfaces](https://kartoweb.itc.nl/geometrics/Reference%20surfaces/refsurf.html)
 
 - Ellipsoid
 
@@ -61,55 +93,20 @@ background-position: 50% 80%
 ---
 class: inverse, middle, center
 
-# Earth Datums
+# Map Projections
 
 ---
 
 background-image: url(images/earth_true_shape.png)
-background-size: 400px
+background-size: 350px
 background-position: 50% 90%
-# Earth's Datums
+# [MapProjections](https://kartoweb.itc.nl/geometrics/Map%20projections/mappro.html) [1](- [Projections](https://www.icsm.gov.au/education/fundamentals-mapping/projections) [2](https://www.e-education.psu.edu/geog486/node/1883)
 
-- Local or Regional Datums
+- Datum and Projections
 
+- Types of map projections
 
----
-
-background-image: url(images/geocentric.jpg)
-background-size: 400px
-background-position: 50% 70%
-
-# Geocentric Datums 
-    
----
-
-class: inverse, middle, center
-
-# Coordinate Systems 
-
----
-
-
-background-image: url(images/globe_2.jpg)
-background-size: 400px
-background-position: 50% 90%
-
-- Geographic Coordinates (3D, 2D)
-
-- Lines of latitude (parallels)
-
-- Lines of longitude (meridiams)
-
-- 3D Geocentric Coordinates (X, Y, Z) 
-
----
-
-background-image: url(images/cylindrical.jpg)
-background-size: 400px
-background-position: 50% 70%
-# 2D Plane Coordinates (X, Y)
-
-- [Projections](https://www.icsm.gov.au/education/fundamentals-mapping/projections)
+- The UTM map projection 
 
 ---
 
@@ -125,6 +122,10 @@ background-position: 50% 60%
 # 
 
 [Coordinate Transformations](https://kartoweb.itc.nl/geometrics/Coordinate%20transformations/coordtrans.html)
+
+- Reprojection
+
+- Datum Transformation
 
 ---
 class: middle, center
