@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Geomatics for Development</title>
+    <meta charset="utf-8">
+    <meta name="author" content="Ivan Lizarazo" />
+    <link rel="stylesheet" href="xaringan-themer.css" type="text/css" />
+  </head>
+  <body>
+    <textarea id="source">
+class: center, middle, inverse, title-slide
+
+# Geomatics for Development
+## Lecture 3
+### Ivan Lizarazo
+### 2018-10-31 (3pdated: 2018-10-23)
+
+---
+
+
+
+
+
+
+
+# Global Navegation Satellite Systems
+
+1. How it works
+
+1. Satellite  Systems
+
+1. Operational Principles
+
+1. Sources of Error
+
+1. Correction Methods
+
+---
+
+class: inverse, middle, center
+
+# How it works
+
+---
+background-image: url(images/How_it_works.png)
+background-size: 600px
+background-position: 50% 80%
+
+### Light house analogy
+- http://www.gage.upc.edu/
+---
+background-image: url(images/trilateration.png)
+background-size: 800px
+background-position: 50% 60%
+
+### Trilateration
+- http://www.gage.upc.edu/
+
+---
+background-image: url(images/seudorange.png)
+background-size: 700px
+background-position: 50% 70%
+
+### Measuring travel time
+- http://www.gage.upc.edu/
+---
+class: inverse, middle, center
+
+# GNSS Review
+---
+background-image: url(images/GNSS_TUDelft.png)
+background-size: 800px
+background-position: 50% 60%
+
+# GNSS Synthesis [1](http://courses.cecs.anu.edu.au/courses/ENGN8537/notes/es06-4-gnss.html?print)
+- http://courses.cecs.anu.edu.au
+
+---
+
+class: middle, center
+
+background-image: url(images/geoid_gps.png)
+background-size: 300px
+background-position: 50% 90%
+
+
+# Thanks!
+    </textarea>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+<script>var slideshow = remark.create({
+"highlightStyle": "github",
+"highlightLines": true,
+"countIncrementalSlides": false
+});
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
+  window.dispatchEvent(new Event('resize'));
+});
+(function() {
+  var d = document, s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+  if (!r) return;
+  s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
+  d.head.appendChild(s);
+})();</script>
+
+<script>
+(function() {
+  var i, text, code, codes = document.getElementsByTagName('code');
+  for (i = 0; i < codes.length;) {
+    code = codes[i];
+    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+      text = code.textContent;
+      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
+          /^\$\$(.|\s)+\$\$$/.test(text) ||
+          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+        code.outerHTML = code.innerHTML;  // remove <code></code>
+        continue;
+      }
+    }
+    i++;
+  }
+})();
+</script>
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+(function () {
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src  = 'https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML';
+  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
+    script.src  = script.src.replace(/^https?:/, '');
+  document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+  </body>
+</html>
