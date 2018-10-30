@@ -30,6 +30,15 @@ Please take note that:
 - Lectures:
   - [Session 2- Understanding Coordinate Systems and Map Projections](https://ials.github.com/G4D/G4D_S2.html)
   
+  ## Week 3 - Wednesday, 31 October 2018
+ 
+- Readings due for class:
+    - Inputs of GIS Data - Chapter 15 of Avange & Kyalo (2013) 
+    - Satellite Positioning Systems - Chapter 7 of Gomarasca (2009) 
+ 
+- Lectures:
+  - [Session 3- Global Navegation Satellite Systems](https://ials.github.com/G4D/G4D_S3.html)
+  
 
 
 
