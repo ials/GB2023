@@ -39,6 +39,27 @@ Please take note that:
 - Lectures:
   - [Session 3- Global Navegation Satellite Systems](https://ials.github.com/G4D/G4D_S3.html)
   
+   ## Week 4 - Wednesday, 7 November 2018
+ 
+- Readings due for class:
+  - GIS Database - Ch. 15 of Environmental Geoinformatics (Avange & Kyalo, 2013)
+  - Relational data - Ch. 13 of R for Data Science (Grolemund and Wickham, 2016)
+  
+- Lecture:  Non-spatial operations on vector & raster geospatial data 
+ 
+- Hands-on exercises:
+  - [Attribute operations](https://ials.github.com/G4D/S3_attributes.html)
+  
+   ## Week 5 - Wednesday, 14 November 2018
+ 
+- Readings due for class:
+  - Spatial Analysis - Ch. 17 of Environmental Geoinformatics (Avange & Kyalo, 2013)
+  
+- Lecture:  Spatial operations on vector & raster geospatial data 
+ 
+- Hands-on exercises:
+  - [Spatial Operations](https://ials.github.com/G4D/S4_spatial_operations.html)
+  
 
 
 
