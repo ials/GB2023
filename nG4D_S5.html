@@ -1,0 +1,414 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Geomatics for Development</title>
+    <meta charset="utf-8">
+    <meta name="author" content="Ivan Lizarazo" />
+    <link rel="stylesheet" href="xaringan-themer.css" type="text/css" />
+  </head>
+  <body>
+    <textarea id="source">
+class: center, middle, inverse, title-slide
+
+# Geomatics for Development
+## Lecture 5
+### Ivan Lizarazo
+### 2018-11-14 (updated: 2018-11-12)
+
+---
+
+
+
+
+
+
+
+
+# Spatial operations
+========================================================
+
+### Vector data operations
+
+- Spatial subsetting
+- Topological relations
+- Spatial joining
+- Non-overlapping joins
+- Spatial aggregation
+
+###  Raster data operations
+
+- Spatial subsetting
+- Map algebra
+- Local, focal and zonal operations
+- Merging rasters
+
+---
+class: inverse, middle, center
+
+# Vector spatial operations
+
+---
+# A toy vector dataset
+![](nG4D_S5_files/figure-html/unnamed-chunk-1-1.png)&lt;!-- --&gt;
+---
+# Several __sf__ objects
+
+```r
+print(h1.bld)
+```
+
+```
+## Simple feature collection with 1 feature and 1 field
+## geometry type:  POLYGON
+## dimension:      XY
+## bbox:           xmin: 1 ymin: 0 xmax: 2 ymax: 1
+## epsg (SRID):    NA
+## proj4string:    NA
+##   pid                           h1.b
+## 1 h1b POLYGON ((1 1, 2 1, 2 0, 1 ...
+```
+
+```r
+print(pp)
+```
+
+```
+## Simple feature collection with 10 features and 1 field
+## geometry type:  POINT
+## dimension:      XY
+## bbox:           xmin: 0 ymin: 0 xmax: 2.5 ymax: 2
+## epsg (SRID):    NA
+## proj4string:    NA
+##    id                 p
+## 1  51     POINT (0.5 1)
+## 2  52   POINT (1.5 1.5)
+## 3  53   POINT (1.5 0.5)
+## 4  54       POINT (2 1)
+## 5  55       POINT (0 0)
+## 6  56     POINT (2.5 1)
+## 7  57     POINT (2.5 2)
+## 8  58   POINT (0.5 1.5)
+## 9  59   POINT (1.8 0.8)
+## 10 60 POINT (1.25 1.25)
+```
+---
+# Spatial subsetting: the logic
+
+### To retrieve all points inside the building:
+
+
+```r
+library(sf)
+bpoints &lt;- pp %&gt;% filter(lengths(st_within(., h1.bld)) &gt; 0)
+print(bpoints)
+```
+
+```
+## Simple feature collection with 2 features and 1 field
+## geometry type:  POINT
+## dimension:      XY
+## bbox:           xmin: 1.5 ymin: 0.5 xmax: 1.8 ymax: 0.8
+## epsg (SRID):    NA
+## proj4string:    NA
+##   id               p
+## 1 53 POINT (1.5 0.5)
+## 2 59 POINT (1.8 0.8)
+```
+---
+# Spatial subsetting: the output
+
+### Points inside the building:
+
+![](nG4D_S5_files/figure-html/unnamed-chunk-4-1.png)&lt;!-- --&gt;
+  
+---
+
+# Another way of subsetting: the code   
+
+### To retrieve all points inside the roof:
+
+
+```r
+rpoints = pp[h1.rf, ]
+print(rpoints)
+```
+
+```
+## Simple feature collection with 3 features and 1 field
+## geometry type:  POINT
+## dimension:      XY
+## bbox:           xmin: 1.25 ymin: 1 xmax: 2 ymax: 1.5
+## epsg (SRID):    NA
+## proj4string:    NA
+##    id                 p
+## 2  52   POINT (1.5 1.5)
+## 4  54       POINT (2 1)
+## 10 60 POINT (1.25 1.25)
+```
+---
+
+# Another way of subsetting: the output
+### Points inside the roof:
+
+![](nG4D_S5_files/figure-html/unnamed-chunk-6-1.png)&lt;!-- --&gt;
+
+# Topological relations
+
+- [GITTA](http://www.gitta.info/SpatialQueries/en/html/TopoBasedOps_learningObject1.html)
+
+
+```r
+st_within(pp, h1.bld, sparse = FALSE)[, 1]
+```
+
+```
+##  [1] FALSE FALSE  TRUE FALSE FALSE FALSE FALSE FALSE  TRUE FALSE
+```
+
+```r
+st_within(pp, h1.rf, sparse = FALSE)[, 1]
+```
+
+```
+##  [1] FALSE  TRUE FALSE FALSE FALSE FALSE FALSE FALSE FALSE  TRUE
+```
+
+```r
+st_within(bpoints, h1.bld, sparse = FALSE)[, 1]
+```
+
+```
+## [1] TRUE TRUE
+```
+
+```r
+st_within(rpoints, h1.rf, sparse = FALSE)[, 1]
+```
+
+```
+## [1]  TRUE FALSE  TRUE
+```
+---
+
+# Spatial left join (building attr. to points )
+
+
+```r
+pp_bld_joined = st_join(pp, h1.bld["pid"])
+print(pp_bld_joined)
+```
+
+```
+## Simple feature collection with 10 features and 2 fields
+## geometry type:  POINT
+## dimension:      XY
+## bbox:           xmin: 0 ymin: 0 xmax: 2.5 ymax: 2
+## epsg (SRID):    NA
+## proj4string:    NA
+##    id  pid                 p
+## 1  51 &lt;NA&gt;     POINT (0.5 1)
+## 2  52 &lt;NA&gt;   POINT (1.5 1.5)
+## 3  53  h1b   POINT (1.5 0.5)
+## 4  54  h1b       POINT (2 1)
+## 5  55 &lt;NA&gt;       POINT (0 0)
+## 6  56 &lt;NA&gt;     POINT (2.5 1)
+## 7  57 &lt;NA&gt;     POINT (2.5 2)
+## 8  58 &lt;NA&gt;   POINT (0.5 1.5)
+## 9  59  h1b   POINT (1.8 0.8)
+## 10 60 &lt;NA&gt; POINT (1.25 1.25)
+```
+
+---
+# Spatial inner join (building attr. to points )
+
+
+```r
+pp_bld_inner = st_join(pp, h1.bld["pid"], left=FALSE)
+print(pp_bld_inner)
+```
+
+```
+## Simple feature collection with 3 features and 2 fields
+## geometry type:  POINT
+## dimension:      XY
+## bbox:           xmin: 1.5 ymin: 0.5 xmax: 2 ymax: 1
+## epsg (SRID):    NA
+## proj4string:    NA
+##   id pid               p
+## 3 53 h1b POINT (1.5 0.5)
+## 4 54 h1b     POINT (2 1)
+## 9 59 h1b POINT (1.8 0.8)
+```
+
+---
+# Non-overlapping join (building attr. to points ) 1/2
+
+
+
+```r
+z = st_join(pp, h1.bld, st_is_within_distance, dist = 0.3, left=FALSE)
+print(z)
+```
+
+```
+## Simple feature collection with 4 features and 2 fields
+## geometry type:  POINT
+## dimension:      XY
+## bbox:           xmin: 1.25 ymin: 0.5 xmax: 2 ymax: 1.25
+## epsg (SRID):    NA
+## proj4string:    NA
+##    id pid                 p
+## 3  53 h1b   POINT (1.5 0.5)
+## 4  54 h1b       POINT (2 1)
+## 9  59 h1b   POINT (1.8 0.8)
+## 10 60 h1b POINT (1.25 1.25)
+```
+---
+# Non-overlapping join (building attr. to points ) 2/2
+
+
+```r
+z = st_join(pp, h1.bld, st_is_within_distance, dist = 0.7, left=FALSE)
+print(z)
+```
+
+```
+## Simple feature collection with 7 features and 2 fields
+## geometry type:  POINT
+## dimension:      XY
+## bbox:           xmin: 0.5 ymin: 0.5 xmax: 2.5 ymax: 1.5
+## epsg (SRID):    NA
+## proj4string:    NA
+##    id pid                 p
+## 1  51 h1b     POINT (0.5 1)
+## 2  52 h1b   POINT (1.5 1.5)
+## 3  53 h1b   POINT (1.5 0.5)
+## 4  54 h1b       POINT (2 1)
+## 6  56 h1b     POINT (2.5 1)
+## 9  59 h1b   POINT (1.8 0.8)
+## 10 60 h1b POINT (1.25 1.25)
+```
+
+---
+class: inverse, middle, center
+
+# Raster spatial operations
+---
+# A toy raster dataset: tmp
+
+```
+## class       : RasterLayer 
+## dimensions  : 4, 8, 32  (nrow, ncol, ncell)
+## resolution  : 45, 45  (x, y)
+## extent      : -180, 180, -90, 90  (xmin, xmax, ymin, ymax)
+## coord. ref. : +proj=longlat +datum=WGS84 +ellps=WGS84 +towgs84=0,0,0 
+## data source : /Users/ivanlizarazo/Documents/datos/g4d/notebooks/test-netCDF-file.nc 
+## names       : original 
+## zvar        : tmp
+```
+---
+# A __raster__ layer
+![](nG4D_S5_files/figure-html/unnamed-chunk-13-1.png)&lt;!-- --&gt;
+---
+# Spatial subsetting: tmp value at a given location
+
+```r
+value1 &lt;- raster::extract(tmp, data.frame(x = 8.675, y = 50.587))
+value1
+```
+
+```
+##           
+## -0.101761
+```
+
+---
+# Spatial subsetting: tmp values using a __clip__ raster
+- Creation of a clip raster &amp; Clipping
+
+```r
+clip = raster(nrows = 8, ncols = 8, res = 10, xmn = 0, xmx = 80, 
+              ymn = 0, ymx = 80, vals = rep(1, 64))
+clipped_raster = tmp[clip, drop=FALSE]
+clipped_raster
+```
+
+```
+## class       : RasterLayer 
+## dimensions  : 2, 2, 4  (nrow, ncol, ncell)
+## resolution  : 45, 45  (x, y)
+## extent      : 0, 90, 0, 90  (xmin, xmax, ymin, ymax)
+## coord. ref. : +proj=longlat +datum=WGS84 +ellps=WGS84 +towgs84=0,0,0 
+## data source : in memory
+## names       : original 
+## values      : -2.185287, -0.101761  (min, max)
+```
+---
+# Spatial subsetting: tmp values using a __clip__ raster
+- Output:
+![](nG4D_S5_files/figure-html/unnamed-chunk-16-1.png)&lt;!-- --&gt;
+
+---
+# Map algebra
+
+
+---
+# Local, focal and zonal operations
+
+
+---
+# Merging rasters
+---
+background-image: url(https://theodi.org/wp-content/uploads/2018/02/HOMEPAGE-BG-ANM-3.svg)
+background-size: contain
+class: center, middle
+
+# Thanks!
+    </textarea>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+<script>var slideshow = remark.create({
+"highlightStyle": "github",
+"highlightLines": true,
+"countIncrementalSlides": false
+});
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
+  window.dispatchEvent(new Event('resize'));
+});
+(function() {
+  var d = document, s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+  if (!r) return;
+  s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
+  d.head.appendChild(s);
+})();</script>
+
+<script>
+(function() {
+  var i, text, code, codes = document.getElementsByTagName('code');
+  for (i = 0; i < codes.length;) {
+    code = codes[i];
+    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+      text = code.textContent;
+      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
+          /^\$\$(.|\s)+\$\$$/.test(text) ||
+          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+        code.outerHTML = code.innerHTML;  // remove <code></code>
+        continue;
+      }
+    }
+    i++;
+  }
+})();
+</script>
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+(function () {
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src  = 'https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML';
+  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
+    script.src  = script.src.replace(/^https?:/, '');
+  document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+  </body>
+</html>
