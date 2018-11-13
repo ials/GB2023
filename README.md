@@ -30,7 +30,7 @@ Please take note that:
 - Lectures:
   - [Session 2- Understanding Coordinate Systems and Map Projections](https://ials.github.com/G4D/G4D_S2.html)
   
-  ## Week 3 - Wednesday, 31 October 2018
+## Week 3 - Wednesday, 31 October 2018
  
 - Readings due for class:
     - Inputs of GIS Data - Chapter 15 of Avange & Kyalo (2013) 
@@ -39,7 +39,7 @@ Please take note that:
 - Lectures:
   - [Session 3- Global Navegation Satellite Systems](https://ials.github.com/G4D/G4D_S3.html)
   
-   ## Week 4 - Wednesday, 7 November 2018
+## Week 4 - Wednesday, 7 November 2018
  
 - Readings due for class:
   - GIS Database - Ch. 15 of Environmental Geoinformatics (Avange & Kyalo, 2013)
@@ -50,7 +50,7 @@ Please take note that:
 - Hands-on exercises:
   - [Attribute operations](https://ials.github.com/G4D/S3_attributes.html)
   
-   ## Week 5 - Wednesday, 14 November 2018
+## Week 5 - Wednesday, 14 November 2018
  
 - Readings due for class:
   - Spatial Analysis - Ch. 17 of Environmental Geoinformatics (Avange & Kyalo, 2013)
@@ -60,7 +60,18 @@ Please take note that:
 - Hands-on exercises:
   - [Spatial Operations](https://ials.github.com/G4D/S4_spatial_operations.html)
   
+## Week 6 - Wednesday, 21 November 2018
 
+- Assignments due for class:
+  -  Assignment No. 1 will be reviewed in class (Please be ready for a 10 minute presentation)
+
+- Readings due for class:
+  - GI Analysis and GIS - Chapter 13 of Harvey (2008)
+
+- Lecture contents: Geometric operations on geospatial data
+
+- Hands-on exercises
+  - [Geometric operations](https://geocompr.robinlovelace.net/geometric-operations.html)
 
 
 
