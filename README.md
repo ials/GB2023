@@ -62,16 +62,22 @@ Please take note that:
   
 ## Week 6 - Wednesday, 21 November 2018
 
+The topics initially scheduled for this session were moved  to the next week. 
+
+This session was dedicated to review progress of students in their Assignment No. 1 and to give technical support for solving problems with the R code.
+
+Students were able to publish the preliminary version of their assignments in RPubs.
+
+## Week 7 - Wednesday, 28 November 2018
+
 - Assignments due for class:
   -  Assignment No. 1 will be reviewed in class (Please be ready for a 10 minute presentation)
-
+  -  Scope of Assignment No. 2 will be explained in class
 - Readings due for class:
   - GI Analysis and GIS - Chapter 13 of Harvey (2008)
 
 - Lecture contents: Geometric operations on geospatial data
 
 - Hands-on exercises
-  - [Geometric operations](https://geocompr.robinlovelace.net/geometric-operations.html)
-
-
+  - [Geometric operations](https://ials.github.io/G4D/S6-geometry-operations.html)
 
