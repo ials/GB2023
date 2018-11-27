@@ -81,3 +81,14 @@ Students were able to publish the preliminary version of their assignments in RP
 - Hands-on exercises
   - [Geometric operations](https://ials.github.io/G4D/S6-geometry-operations.html)
 
+## Week 8 - Wednesday, 5 December 2018
+
+- Readings due for this session:
+  - Conservation of Biodiversity (Kearns, C., 2010)
+  - Biodiversity Conservation and the Eradication of Poverty (Adams, W. M. et al., 2004)
+
+- Lecture contents: Assessment of biodiversity status:
+
+Hands-on exercises:
+[Ilustration of preliminary assessment of conservation status of Amazonian tree species](http://rpubs.com/ials2un/conR1)
+
