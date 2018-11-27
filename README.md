@@ -87,7 +87,8 @@ Students were able to publish the preliminary version of their assignments in RP
   - Conservation of Biodiversity (Kearns, C., 2010)
   - Biodiversity Conservation and the Eradication of Poverty (Adams, W. M. et al., 2004)
 
-- Lecture contents: Assessment of biodiversity status:
+- Lecture contents: 
+  - Assessment of biodiversity status:
 
 Hands-on exercises:
 [Ilustration of preliminary assessment of conservation status of Amazonian tree species](http://rpubs.com/ials2un/conR1)
