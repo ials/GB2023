@@ -72,7 +72,7 @@ Students were able to publish the preliminary version of their assignments in RP
 
 - Assignments due for class:
   -  Assignment No. 1 will be reviewed in class (Please be ready for a 10 minute presentation)
-  -  Scope of Assignment No. 2 will be explained in class
+  -  Scope of [Assignment Nr. 2](https://ials.github.io/G4D/G4D_Assignment2.html) will be explained in class
 - Readings due for class:
   - GI Analysis and GIS - Chapter 13 of Harvey (2008)
 
