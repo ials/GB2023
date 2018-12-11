@@ -39,6 +39,7 @@ Please take note that:
 - Lectures:
   - [Session 3- Global Navegation Satellite Systems](https://ials.github.com/G4D/G4D_S3.html)
   
+  
 ## Week 4 - Wednesday, 7 November 2018
  
 - Readings due for class:
@@ -88,8 +89,20 @@ Students were able to publish the preliminary version of their assignments in RP
   - Biodiversity Conservation and the Eradication of Poverty (Adams, W. M. et al., 2004)
 
 - Lecture contents: 
-  - Assessment of biodiversity status:
+  - Assessment of biodiversity status for IUCN Red List
 
-Hands-on exercises:
-[Ilustration of preliminary assessment of conservation status of Amazonian tree species](http://rpubs.com/ials2un/conR1)
+- Hands-on exercises:
+  - [Ilustration of preliminary assessment of conservation status of Amazonian tree species](http://rpubs.com/ials2un/conR1)
 
+
+## Week 9 - Wednesday, 12 December 2018
+
+- Readings due for this session:
+  - Fundamentals of remote sensing - Ch. 7 of Environmental Geoinformatics (Avange & Kyalo, 2013)
+  - Optical remote sensing - Ch. 8 of Environmental Geoinformatics (Avange & Kyalo, 2013)
+ 
+- Lecture contents:
+  - Remote Sensing Basics
+
+- Hands-on exercises:
+  - [Image exploration](http://rspatial.org/rs/rst/2-exploration.html)
