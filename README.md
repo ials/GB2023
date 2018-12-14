@@ -1,6 +1,6 @@
 # Welcome to the Geomatics for Development - G4D- WS 2018/2019 course 
 
-Here is the outline of the topics, readings, and assignments for our course. 
+Here is the outline of the topics, readings, and assignments for this course. 
 
 Please take note that:
 - Readings should be done before the session that they are listed for. 
@@ -11,9 +11,7 @@ Please take note that:
 
 - Lectures:
   - Session 0.  [Course Introduction](https://ials.github.com/G4D/G4D_S0.html)
-     
   - Session 1.  [Monitoring society and the environment](https://ials.github.com/G4D/G4D_S1.html)
-
 
 - Assignment Given (Due by 2:00 pm on 21 November 2018):  [Assignment 1] TBF
 
@@ -38,7 +36,6 @@ Please take note that:
  
 - Lectures:
   - [Session 3- Global Navegation Satellite Systems](https://ials.github.com/G4D/G4D_S3.html)
-  
   
 ## Week 4 - Wednesday, 7 November 2018
  
@@ -73,7 +70,7 @@ Students were able to publish the preliminary version of their assignments in RP
 
 - Assignments due for class:
   -  Assignment No. 1 will be reviewed in class (Please be ready for a 10 minute presentation)
-  -  Scope of [Assignment Nr. 2](https://ials.github.io/G4D/G4D_Assignment2.html) will be explained in class
+  -  Scope of [Assignment Nr. 2](https://ials.github.io/G4D/G4D_Assignment2.html)  explained in class
 - Readings due for class:
   - GI Analysis and GIS - Chapter 13 of Harvey (2008)
 
@@ -102,7 +99,7 @@ Students were able to publish the preliminary version of their assignments in RP
  
 - Lecture contents:
   - Remote Sensing Basics
-
+  
 - Hands-on exercises:
   - [USGS Earth Explorer](https://earthobservatory.nasa.gov/blogs/elegantfigures/2013/05/31/a-quick-guide-to-earth-explorer-for-landsat-8/) (Register, search and download a [Landsat 8 Surface Reflectance Level 2](https://landsat.usgs.gov/landsat-surface-reflectance-data-products) scene and bring all files to next class)
   - [ESA Copernicus Open Access hub](https://scihub.copernicus.eu/userguide/GraphicalUserInterface)
@@ -119,7 +116,11 @@ Students were able to publish the preliminary version of their assignments in RP
   - [Finding, request, and download Landsat 8 data](https://blog.socialcops.com/technology/data-science/announcing-rlandsat-landsat-8-data/)
   - [Image exploration](http://rspatial.org/rs/rst/2-exploration.html)
   
-### Week 11 - Wednesday, 16 January 2019
+## Week 11 - Wednesday, 16 January 2019
+
+- Assignments due for class:
+  -  Assignment No. 2 will be reviewed in class (Please be ready for a 10 minute presentation)
+  -  Scope of final project will be explained in class
 
 - Readings due for this session:
   - *Image interpretation and analysis* - Ch. 10 of **Environmental Geoinformatics** (Avange & Kyalo,  2013)
