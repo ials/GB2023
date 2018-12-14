@@ -98,11 +98,23 @@ Students were able to publish the preliminary version of their assignments in RP
 ## Week 9 - Wednesday, 12 December 2018
 
 - Readings due for this session:
-  - Fundamentals of remote sensing - Ch. 7 of Environmental Geoinformatics (Avange & Kyalo, 2013)
-  - Optical remote sensing - Ch. 8 of Environmental Geoinformatics (Avange & Kyalo, 2013)
+  - Fundamentals of remote sensing - Ch. 7 of Environmental Geoinformatics (Avange & Kyalo, 2013
  
 - Lecture contents:
   - Remote Sensing Basics
 
 - Hands-on exercises:
+  - [USGS Earth Explorer](https://earthobservatory.nasa.gov/blogs/elegantfigures/2013/05/31/a-quick-guide-to-earth-explorer-for-landsat-8/) (Register, search and download a [Landsat 8 Surface Reflectance Level 2](https://landsat.usgs.gov/landsat-surface-reflectance-data-products) scene and bring all files to next class)
+  - [ESA Copernicus Open Access hub](https://scihub.copernicus.eu/userguide/GraphicalUserInterface)
+  
+## Week 10 - Wednesday, 19 December 2018
+
+- Readings due for this session:
+  - Optical remote sensing - Ch. 8 of Environmental Geoinformatics (Avange & Kyalo, 2013)
+ 
+- Lecture contents:
+  - Remote Sensing Basics (continuation)
+
+- Hands-on exercises:
+  - [Finding, request, and download Landsat 8 data](https://blog.socialcops.com/technology/data-science/announcing-rlandsat-landsat-8-data/)
   - [Image exploration](http://rspatial.org/rs/rst/2-exploration.html)
