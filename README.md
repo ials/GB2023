@@ -118,3 +118,15 @@ Students were able to publish the preliminary version of their assignments in RP
 - Hands-on exercises:
   - [Finding, request, and download Landsat 8 data](https://blog.socialcops.com/technology/data-science/announcing-rlandsat-landsat-8-data/)
   - [Image exploration](http://rspatial.org/rs/rst/2-exploration.html)
+  
+### Week 11 - Wednesday, 16 January 2019
+
+- Readings due for this session:
+  - *Image interpretation and analysis* - Ch. 10 of **Environmental Geoinformatics** (Avange & Kyalo,  2013)
+
+- Lecture contents:
+  Remote Sensing Basics (continuation)
+
+- Hands-on exercises:
+  [Basic digital image operations](http://rspatial.org/rs/rst/3-basicmath.html)
+
