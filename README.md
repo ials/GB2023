@@ -120,7 +120,7 @@ Students were able to publish the preliminary version of their assignments in RP
 
 - Assignments due for class:
   -  Assignment No. 2 will be reviewed in class (Please be ready for a 10 minute presentation)
-  -  Scope of final project will be explained in class
+  -  [Scope of final project](https://ials.github.io/G4D/G4D_Project.html) will be explained in class
 
 - Readings due for this session:
   - *Image interpretation and analysis* - Ch. 10 of **Environmental Geoinformatics** (Avange & Kyalo,  2013)
