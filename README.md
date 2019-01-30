@@ -150,6 +150,8 @@ Here is the outline of the topics for this session:
 - Lecture contents:
   Machine Learning for Remote Sensing
   
+- Case study:  [Soil moisture from remotely sensed data](https://rpubs.com/ials2un/ssm)
+  
 - Hands-on exercises:
   [Supervised Image Classification](https://rspatial.org/rs/5-supclassification.html)
 
