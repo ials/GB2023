@@ -149,6 +149,7 @@ Here is the outline of the topics for this session:
 
 - Lecture contents:
   Machine Learning for Remote Sensing
+  [Soil Moisture RF regression](https://goo.gl/6MRHyw)
   
 - Case study:  [Soil moisture from remotely sensed data](https://rpubs.com/ials2un/ssm)
   
