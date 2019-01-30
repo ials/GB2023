@@ -130,4 +130,26 @@ Students were able to publish the preliminary version of their assignments in RP
 
 - Hands-on exercises:
   [Basic digital image operations](http://rspatial.org/rs/rst/3-basicmath.html)
+  
+## Week 12  - Wednesday, 23 January 2019
+Here is the outline of the topics for this session:
+
+- Readings due for this session:
+  - Image classification and analysis
+  - A Review of Modern Approaches to Classification of Remote Sensing Data
+
+- Lecture contents:
+  Remote Sensing Basics (continuation)
+  
+- Hands-on exercises:
+  [Supervised Image Classification](https://rspatial.org/rs/5-supclassification.html)
+  
+## Week 13  - Wednesday, 30 January 2019
+Here is the outline of the topics for this session:
+
+- Lecture contents:
+  Machine Learning for Remote Sensing
+  
+- Hands-on exercises:
+  [Supervised Image Classification](https://rspatial.org/rs/5-supclassification.html)
 
