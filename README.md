@@ -156,3 +156,22 @@ Here is the outline of the topics for this session:
 - Hands-on exercises:
   [Supervised Image Classification](https://rspatial.org/rs/5-supclassification.html)
 
+
+## Week 14  - Wednesday, 6 February 2019
+Here is the outline of the topics for this session:
+
+### Lecture contents:
+
+Machine Learning & Remote Sensing for Sustainable Development:
+
+- [Statistical Machine Learning Methods and Remote Sensing for Sustainable Development Goals: A
+Review](https://www.mdpi.com/2072-4292/10/9/1365)
+
+- [Machine Learning for Conservation](https://www.amnh.org/our-research/center-for-biodiversity-conservation/research-and-conservation/machine-learning-for-conservation)
+- [Random forest as a generic framework for predictive modeling of spatial and spatio-temporal
+variables](https://peerj.com/articles/5518/)
+
+### Hands-on exercises:
+
+The following tutorial explains how to use Random Forest to generate spatial and spatiotemporal predictions:
+- [Machine Learning algorithms for spatial and spatiotemporal data](https://github.com/thengl/GeoMLA)
