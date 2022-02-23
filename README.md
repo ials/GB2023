@@ -1,4 +1,4 @@
-# Welcome to the Geomatics for Development - G4D- WS 2018/2019 course 
+# Welcome to the Geomatica Basica course 
 
 Here is the outline of the topics, readings, and assignments for this course. 
 
