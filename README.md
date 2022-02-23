@@ -1,13 +1,10 @@
-# Welcome to the Geomatica Basica course 
+# Facultad de Ciencias Agrarias
+## Welcome to the Geomatica Basica 2022-1S course 
 
-Here is the outline of the topics, readings, and assignments for this course. 
+This is the main communication site for the course. Here you will find the lectures, readings, and assignments. This is a place to visit regularly. 
 
-Please take note that:
-- Readings should be done before the session that they are listed for. 
-- Assignments sould be turned in before the due data at the time stated.
-- Labs should be completed within one week.
 
-## Week 1 - Wednesday, 17 October 2018
+## Week 1 - Wednesday, 9 March 2022
 
 - Lectures:
   - Session 0.  [Course Introduction](https://ials.github.com/G4D/G4D_S0.html)
@@ -18,7 +15,7 @@ Please take note that:
 - Hands-on exercises:
   - Lab 1       [Introduction to R](https://www.datacamp.com/courses/free-introduction-to-r)  
 
-## Week 2 - Wednesday, 24 October 2018
+## Week 2 - Wednesday, 16 March 2022
  
 - Readings due for class:
     - Fundamentals of GIS - Chapter 13 of Avange & Kyalo (2013) 
@@ -28,7 +25,7 @@ Please take note that:
 - Lectures:
   - [Session 2- Understanding Coordinate Systems and Map Projections](https://ials.github.com/G4D/G4D_S2.html)
   
-## Week 3 - Wednesday, 31 October 2018
+## Week 3 - Wednesday, 23 March 2022
  
 - Readings due for class:
     - Inputs of GIS Data - Chapter 15 of Avange & Kyalo (2013) 
@@ -37,7 +34,7 @@ Please take note that:
 - Lectures:
   - [Session 3- Global Navegation Satellite Systems](https://ials.github.com/G4D/G4D_S3.html)
   
-## Week 4 - Wednesday, 7 November 2018
+## Week 4 - Wednesday, 30 March 2022
  
 - Readings due for class:
   - GIS Database - Ch. 15 of Environmental Geoinformatics (Avange & Kyalo, 2013)
@@ -48,7 +45,9 @@ Please take note that:
 - Hands-on exercises:
   - [Attribute operations](https://ials.github.com/G4D/S3_attributes.html)
   
-## Week 5 - Wednesday, 14 November 2018
+## Week 5 - Wednesday, 6 April 2022
+
+Entrega Informe No. 1  ( 15%)
  
 - Readings due for class:
   - Spatial Analysis - Ch. 17 of Environmental Geoinformatics (Avange & Kyalo, 2013)
@@ -58,15 +57,16 @@ Please take note that:
 - Hands-on exercises:
   - [Spatial Operations](https://ials.github.com/G4D/S4_spatial_operations.html)
   
-## Week 6 - Wednesday, 21 November 2018
+## Week 6 - Wednesday, 13 April 2022
 
-The topics initially scheduled for this session were moved  to the next week. 
 
-This session was dedicated to review progress of students in their Assignment No. 1 and to give technical support for solving problems with the R code.
+**Holy Week* 
 
-Students were able to publish the preliminary version of their assignments in RPubs.
 
-## Week 7 - Wednesday, 28 November 2018
+
+## Week 7 - Wednesday, 20 April 2022
+
+
 
 - Assignments due for class:
   -  Assignment No. 1 will be reviewed in class (Please be ready for a 10 minute presentation)
@@ -79,7 +79,7 @@ Students were able to publish the preliminary version of their assignments in RP
 - Hands-on exercises
   - [Geometric operations](https://ials.github.io/G4D/S6-geometry-operations.html)
 
-## Week 8 - Wednesday, 5 December 2018
+## Week 8 - Wednesday, 27 April 2022
 
 - Readings due for this session:
   - Conservation of Biodiversity (Kearns, C., 2010)
@@ -92,7 +92,9 @@ Students were able to publish the preliminary version of their assignments in RP
   - [Ilustration of preliminary assessment of conservation status of Amazonian tree species](http://rpubs.com/ials2un/conR1)
 
 
-## Week 9 - Wednesday, 12 December 2018
+## Week 9 - Wednesday, 4 May 2022
+
+Presentación Examen No. 1  (25%)
 
 - Readings due for this session:
   - Fundamentals of remote sensing - Ch. 7 of Environmental Geoinformatics (Avange & Kyalo, 2013
@@ -104,7 +106,9 @@ Students were able to publish the preliminary version of their assignments in RP
   - [USGS Earth Explorer](https://earthobservatory.nasa.gov/blogs/elegantfigures/2013/05/31/a-quick-guide-to-earth-explorer-for-landsat-8/) (Register, search and download a [Landsat 8 Surface Reflectance Level 2](https://landsat.usgs.gov/landsat-surface-reflectance-data-products) scene and bring all files to next class)
   - [ESA Copernicus Open Access hub](https://scihub.copernicus.eu/userguide/GraphicalUserInterface)
   
-## Week 10 - Wednesday, 19 December 2018
+## Week 10 - Wednesday, 11 May 2022
+
+Entrega Informe No. 2  ( 15%)
 
 - Readings due for this session:
   - Optical remote sensing - Ch. 8 of Environmental Geoinformatics (Avange & Kyalo, 2013)
@@ -116,7 +120,9 @@ Students were able to publish the preliminary version of their assignments in RP
   - [Finding, request, and download Landsat 8 data](https://blog.socialcops.com/technology/data-science/announcing-rlandsat-landsat-8-data/)
   - [Image exploration](http://rspatial.org/rs/rst/2-exploration.html)
   
-## Week 11 - Wednesday, 16 January 2019
+## Week 11 - Wednesday, 18 May 2022
+
+
 
 - Assignments due for class:
   -  Assignment No. 2 will be reviewed in class (Please be ready for a 10 minute presentation)
@@ -131,7 +137,7 @@ Students were able to publish the preliminary version of their assignments in RP
 - Hands-on exercises:
   [Basic digital image operations](http://rspatial.org/rs/rst/3-basicmath.html)
   
-## Week 12  - Wednesday, 23 January 2019
+## Week 12  - Wednesday, 25 May 2022
 Here is the outline of the topics for this session:
 
 - Readings due for this session:
@@ -144,7 +150,7 @@ Here is the outline of the topics for this session:
 - Hands-on exercises:
   [Supervised Image Classification](https://rspatial.org/rs/5-supclassification.html)
   
-## Week 13  - Wednesday, 30 January 2019
+## Week 13  - Wednesday, 1 June 2022
 Here is the outline of the topics for this session:
 
 - Lecture contents:
@@ -157,7 +163,7 @@ Here is the outline of the topics for this session:
   [Supervised Image Classification](https://rspatial.org/rs/5-supclassification.html)
 
 
-## Week 14  - Wednesday, 6 February 2019
+## Week 14  - Wednesday, 8 June 2022
 Here is the outline of the topics for this session:
 
 ### Lecture contents:
@@ -175,3 +181,17 @@ variables](https://peerj.com/articles/5518/)
 
 The following tutorial explains how to use Random Forest to generate spatial and spatiotemporal predictions:
 - [Machine Learning algorithms for spatial and spatiotemporal data](https://github.com/thengl/GeoMLA)
+
+
+## Week 15  - Wednesday, 15 June 2022
+
+
+## Week 16  - Wednesday, 22 June 2022
+
+Entrega Informe No. 3  (20%)
+
+## Week 17  - Wednesday, 29 June 2022
+
+Presentación Examen No. 2  (25%)
+
+## Week 18  - Wednesday,  6 July 2022
