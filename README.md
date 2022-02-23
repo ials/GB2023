@@ -1,5 +1,5 @@
-# Facultad de Ciencias Agrarias
-## Welcome to the Geomatica Basica 2022-1S course 
+# UNAL - FCA - Geomatica Basica 2022-1S
+## Welcome to the GB2022 course - Código SIA 2015896 
 
 This is the main communication site for the course. Here you will find the lectures, readings, and assignments. This is a place to visit regularly. 
 
