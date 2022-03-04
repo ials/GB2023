@@ -3,7 +3,13 @@
 
 This is the main communication site for the course. Here you will find the lectures, readings, and assignments. This is a place to visit regularly. 
 
+## Objetivos del curso
 
+- Aprender conceptos sobre las diferentes disciplinas que componen la geomática.
+- Desarrollar destrezas prácticas para realizar procesos digitales.
+- Brindar oportunidades para mejorar la capacidad argumentativa.
+
+## Programación
 ## Week 1 - 9-10 March 2022
 
 - Lecture:
