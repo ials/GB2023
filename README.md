@@ -13,7 +13,8 @@ This is the main communication site for the course. Here you will find the lectu
 ## Week 1 - 9-10 March 2022
 
 - Lecture:
-  - [W1- What is special about spatial data](https://ials.github.com/G4D/G4D_S2.html)
+  - [W1- Course introduction](https://ials.github.com/geomatica/geom_S0.html)
+  - [W1- What is special about spatial data](https://ials.github.com/geomatica/geom_S1.html)
 
 - Practical:
   - Download spatial data for your study area
@@ -54,10 +55,7 @@ This is the main communication site for the course. Here you will find the lectu
    
 ## Week 6 - 13-14 April 2022
 
-
 **Holy Week** 
-
-
 
 ## Week 7 - 20-21 April 2022
 
@@ -66,7 +64,7 @@ This is the main communication site for the course. Here you will find the lectu
 - Lecture:
   - [W7- Geomorphometry]
 
-## Week 8 - 27-18 April 2022
+## Week 8 - 27-28 April 2022
 
 **Examen No. 1  (25%)**
 
@@ -85,12 +83,12 @@ This is the main communication site for the course. Here you will find the lectu
   
 ## Week 11 - 18-19 May 2022
 
+**Entrega Informe No. 2  (15%)**
+
 - Lecture:
   - [W11- Multispectral indices]
 
 ## Week 12  - 25-26 May 2022
-
-**Entrega Informe No. 2  (15%)**
 
 - Lecture:
   - [W12 - Spatial interpolation I]
