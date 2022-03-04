@@ -13,8 +13,8 @@ This is the main communication site for the course. Here you will find the lectu
 ## Week 1 - 9-10 March 2022
 
 - Lecture:
-  - [W1- Course introduction](https://ials.github.com/geomatica/geom_S0.html)
-  - [W1- What is special about spatial data](https://ials.github.com/geomatica/geom_S1.html)
+  - [W1- Course introduction](https://ials.github.io/geomatica/geom_S0.html)
+  - [W1- What is special about spatial data](https://ials.github.io/geomatica/geom_S1.html)
 
 - Practical:
   - Download spatial data for your study area
