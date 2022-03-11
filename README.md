@@ -22,9 +22,14 @@ This is the main communication site for the course. Here you will find the lectu
 ## Week 2 - 16-17 March 2022
  
 - Lecture:
-  - [W2- Understanding Geodesy, Coordinate Systems and Map Projections](https://ials.github.io/G4D/G4D_S2.html)
+  - [W2- Understanding Geodesy, Coordinate Systems and Map Projections](https://drive.google.com/file/d/1mHYaNJa8dxYYA2XSTUfThx-HyroA_563/view?usp=sharing)
+
+- Reading:
+  - [Referencias y proyección empleadas en la cartografia colombiana](https://revistas.uptc.edu.co/index.php/perspectiva/article/view/1718)
 
 - Practical:
+  - Understand projections and EPSG codes
+  - Change projection of geospatial data
   - Join spatial and non-spatial data 
   
 ## Week 3 - 23-24 March 2022
