@@ -22,7 +22,7 @@ This is the main communication site for the course. Here you will find the lectu
 ## Week 2 - 16-17 March 2022
  
 - Lecture:
-  - [W2- Understanding Geodesy, Coordinate Systems and Map Projections](https://ials.github.com/G4D/G4D_S2.html)
+  - [W2- Understanding Geodesy, Coordinate Systems and Map Projections](https://ials.github.io/G4D/G4D_S2.html)
 
 - Practical:
   - Join spatial and non-spatial data 
