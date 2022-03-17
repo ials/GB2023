@@ -30,7 +30,7 @@ This is the main communication site for the course. Here you will find the lectu
 - Practical:
   - Understand projections and EPSG codes
   - Change projection of geospatial data
-  - Join spatial and non-spatial data 
+
   
 ## Week 3 - 23-24 March 2022
  
@@ -39,6 +39,7 @@ This is the main communication site for the course. Here you will find the lectu
   - [W3 - Thematic maps](http://www.geo.umass.edu/courses/geo494a/thematic_map_design.pdf)
 
 - Practical:
+  - Join spatial and non-spatial data 
   - Make a thematic map
     - [Guía escrita y videos](https://sites.google.com/unal.edu.co/gb2020/3-cartograf%C3%ADa-tem%C3%A1tica)
  
