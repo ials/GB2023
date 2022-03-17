@@ -40,7 +40,8 @@ This is the main communication site for the course. Here you will find the lectu
 
 - Practical:
   - Make a thematic map
-
+    - [Guía escrita y videos](https://sites.google.com/unal.edu.co/gb2020/3-cartograf%C3%ADa-tem%C3%A1tica)
+ 
   
 ## Week 4 - 30-31 March 2022
 
