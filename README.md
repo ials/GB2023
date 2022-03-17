@@ -35,7 +35,8 @@ This is the main communication site for the course. Here you will find the lectu
 ## Week 3 - 23-24 March 2022
  
 - Lecture:
-  - [W3- How to make a map]
+  - [W3 - Cartography](https://www.cartography.org.uk/_files/ugd/583f72_c795f5c26b3f44df84e33d1210842d80.pdf)
+  - [W3 - Thematic maps](http://www.geo.umass.edu/courses/geo494a/thematic_map_design.pdf)
 
 - Practical:
   - Make a thematic map
