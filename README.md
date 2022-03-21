@@ -38,10 +38,14 @@ This is the main communication site for the course. Here you will find the lectu
   - [W3 - Cartography](https://www.cartography.org.uk/_files/ugd/583f72_c795f5c26b3f44df84e33d1210842d80.pdf)
   - [W3 - Thematic maps](http://www.geo.umass.edu/courses/geo494a/thematic_map_design.pdf)
 
-- Practical:
-  - Join spatial and non-spatial data 
-  - Make a thematic map
-    - [Guía escrita y videos](https://sites.google.com/unal.edu.co/gb2020/3-cartograf%C3%ADa-tem%C3%A1tica)
+- QGIS Practical:
+  - [How to make a map of municipalities](https://drive.google.com/file/d/18UMx5zLUpfd_UetZwmBlX97J8yPMeJwk/view?usp=sharing)
+   
+- R Practical
+  - [My first notebook]()
+
+- Making a thematic map:
+  - [Guía escrita y videos](https://sites.google.com/unal.edu.co/gb2020/3-cartograf%C3%ADa-tem%C3%A1tica)
  
   
 ## Week 4 - 30-31 March 2022
