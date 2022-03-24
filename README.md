@@ -41,8 +41,8 @@ This is the main communication site for the course. Here you will find the lectu
 - QGIS Practical:
   - [How to make a map of municipalities](https://drive.google.com/file/d/18UMx5zLUpfd_UetZwmBlX97J8yPMeJwk/view?usp=sharing)
    
-- R Practical
-  - [My first notebook: main crops in a department](https://drive.google.com/file/d/1gI4WY7f5E4nlxN7DY-TAlke4mGdkTCVn/view?usp=sharing)
+- R Practical - My first notebook: main crops in a department -
+  - [Download this html file and open it with chrome](https://drive.google.com/file/d/1gI4WY7f5E4nlxN7DY-TAlke4mGdkTCVn/view?usp=sharing)
 
 - Making a thematic map:
   - [Guía escrita y videos](https://sites.google.com/unal.edu.co/gb2020/3-cartograf%C3%ADa-tem%C3%A1tica)
