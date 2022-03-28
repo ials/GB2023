@@ -52,6 +52,7 @@ This is the main communication site for the course. Here you will find the lectu
 
 - Lecture:
   - [W4- Queries, Joins, and Thematic Maps](https://drive.google.com/file/d/1Lu5nddq_C610RVRCkzcipFPtaMSVGVLH/view?usp=sharing)
+  - Instructions for Informe No. 1
 
 - Study this cheatsheet:
   - [Data Wrangling with dplyr and tidyr](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
