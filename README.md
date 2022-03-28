@@ -44,7 +44,7 @@ This is the main communication site for the course. Here you will find the lectu
 - R Practical - Notebook 1: main crops in a department 
   - [How to select statistics for important crops](https://rpubs.com/ials2un/readingEVAv1)
 
-- Making a thematic map:
+- Making a thematic map with QGIS:
   - [Guía escrita y videos](https://sites.google.com/unal.edu.co/gb2020/3-cartograf%C3%ADa-tem%C3%A1tica)
  
   
@@ -52,6 +52,9 @@ This is the main communication site for the course. Here you will find the lectu
 
 - Lecture:
   - [W4- Geographic databases]
+
+- Study this cheatsheet:
+  - [Data Wrangling with dplyr and tidyr](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
 
 - R Practical: Notebook 2: making thematic maps 
   - [How to make joins and maps](https://rpubs.com/ials2un/thematic_maps_v1)
