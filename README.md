@@ -41,8 +41,8 @@ This is the main communication site for the course. Here you will find the lectu
 - QGIS Practical:
   - [How to make a map of municipalities](https://drive.google.com/file/d/18UMx5zLUpfd_UetZwmBlX97J8yPMeJwk/view?usp=sharing)
    
-- R Practical - My first notebook: main crops in a department -
-  - [Download this html file and open it with chrome](https://drive.google.com/file/d/1gI4WY7f5E4nlxN7DY-TAlke4mGdkTCVn/view?usp=sharing)
+- R Practical - Notebook 1: main crops in a department 
+  - [How to select statistics for important crops](https://rpubs.com/ials2un/readingEVAv1)
 
 - Making a thematic map:
   - [Guía escrita y videos](https://sites.google.com/unal.edu.co/gb2020/3-cartograf%C3%ADa-tem%C3%A1tica)
@@ -53,8 +53,9 @@ This is the main communication site for the course. Here you will find the lectu
 - Lecture:
   - [W4- Geographic databases]
 
-- Practical:
-  - Database queries
+- R Practical: Notebook 2: making thematic maps 
+  - [How to make joins and maps](https://rpubs.com/ials2un/thematic_maps_v1)
+
  
 ## Week 5 - 6-7 April 2022
 
