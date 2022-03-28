@@ -51,7 +51,7 @@ This is the main communication site for the course. Here you will find the lectu
 ## Week 4 - 30-31 March 2022
 
 - Lecture:
-  - [W4- Geographic databases]
+  - [W4- Queries, Joins, and Thematic Maps](https://drive.google.com/file/d/1Lu5nddq_C610RVRCkzcipFPtaMSVGVLH/view?usp=sharing)
 
 - Study this cheatsheet:
   - [Data Wrangling with dplyr and tidyr](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
