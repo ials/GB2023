@@ -71,7 +71,7 @@ This is the main communication site for the course. Here you will find the lectu
 
 - R Practical:
   - Notebook 3: crop dynamic analysis
-  - [How to analyze multi-year stats](https://rpubs.com/ials2un/885444)
+    - [How to analyze multi-year stats](https://rpubs.com/ials2un/885444)
 
 Tasks:
   - Complete the QGIS & R practicals
