@@ -67,11 +67,15 @@ This is the main communication site for the course. Here you will find the lectu
 ## Week 5 - 6-7 April 2022
 
 - Lecture:
-  - [W5- Digital elevation models]
+  - TBD
 
-- Practical:
-  - Download a DEM for your study area
+- R Practical:
+  - Notebook 3: crop dynamic analysis
+  - [How to analyze multi-year stats](https://rpubs.com/ials2un/885444)
 
+Tasks:
+  - Complete the QGIS & R practicals
+  - Write the Informe No. 1
    
 ## Week 6 - 13-14 April 2022
 
