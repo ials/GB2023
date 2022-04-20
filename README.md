@@ -86,7 +86,11 @@ Tasks:
 **Entrega Informe No. 1  (15%)**
 
 - Lecture:
-  - [W7- Geomorphometry]
+  - [W7- Geospatial web services]
+  - [Orthoimagery](https://www.ideca.gov.co/buscador?topic=59)
+
+- Practical:
+  - [Field Digitization using QGIS](https://www.kcubeconsulting.com/blog/field-digitization-using-qgis#:~:text=To%20start%20digitizing%20the%20field,check%20the%20'Digitizing'%20option.)
 
 ## Week 8 - 27-28 April 2022
 
