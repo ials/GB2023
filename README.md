@@ -94,14 +94,22 @@ Tasks:
 
 ## Week 8 - 27-28 April 2022
 
-**Examen No. 1  (25%)**
-
 - Lecture:
-  - [W8- Global Navegation Satellite Systems]
+  - [W8- Global Navegation Satellite Systems](https://drive.google.com/file/d/1GyGIJuZi2XXlvY4uk9EDVJcckDRssTFC/view)
+
+- Readings:
+  - [How to plot GPX tracks with R](https://rpubs.com/ials2un/gpx1)
+  - [What is trilateration?](https://drive.google.com/file/d/10uHGYrgk5LjkQZw5U0H8hjyx_VuyPiGw/view)
+
+- Practical:
+  - Learn to use the GARMIN GPSMap 64sc
+  - Survey selected polygons, lines and points within the campus
 
 ## Week 9 - 4-5 May 2022
 
-**Salida de campo**
+**Examen No. 1  (25%)**
+
+**Salida de campo el día 6 Mayo**
   
 ## Week 10 - 11-12 May 2022
 
