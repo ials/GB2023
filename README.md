@@ -110,42 +110,46 @@ Tasks:
 **Examen No. 1  (25%)**
 
 **Salida de campo el día 6 Mayo**
-  
+
 ## Week 10 - 11-12 May 2022
 
 - Lecture:
-  - [W10- Remote sensing basics]
+   - [Digital Elevation Models](https://drive.google.com/file/d/15cJRUeEQw2nMi8VK9Lk8v1frv_DC3JsY/view)
 
+- Reading:
+   - [Geomorphometry - A Brief Guide](https://drive.google.com/file/d/12waqdGE3h87wKevUQJXytmXej-8Qvw7C/view?usp=sharing)
   
 ## Week 11 - 18-19 May 2022
+
+- Lecture:
+  - [W11- Remote sensing basics]
+
+## Week 12 - 25-26 May 2022
 
 **Entrega Informe No. 2  (15%)**
 
 - Lecture:
-  - [W11- Multispectral indices]
+  - [W12- Multispectral indices]
 
-## Week 12  - 25-26 May 2022
-
-- Lecture:
-  - [W12 - Spatial interpolation I]
-
-## Week 13  - 1-2 June 2022
+## Week 13  - 1-2 June 2022 
 
 - Lecture:
-  - [W13 - Spatial interpolation II]
-
+  - [W13 - Spatial interpolation I]
 
 ## Week 14  - 8-9 June 2022
 
 - Lecture:
-  - [W14 - Machine learning]
+  - [W14 - Spatial interpolation II]
 
-## Week 15  - 15-16 June 2022
+## Week 15 - 15-16 June 2022
 
 - Lecture:
-  - [W15 - Digital agriculture]
+  - [W15 - Machine learning]
 
 ## Week 16  - 22-23 June 2022
+
+- Lecture:
+  - [W16 - Digital agriculture]
 
 **Entrega Informe No. 3  (20%)**
 
