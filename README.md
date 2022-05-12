@@ -118,6 +118,9 @@ Tasks:
 
 - Reading:
    - [Geomorphometry - A Brief Guide](https://drive.google.com/file/d/12waqdGE3h87wKevUQJXytmXej-8Qvw7C/view?usp=sharing)
+
+- Practical:
+   - [Obtain, process and visualize digital elevation models in R](https://rpubs.com/ials2un/boyaca_dem)
   
 ## Week 11 - 18-19 May 2022
 
