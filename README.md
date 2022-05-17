@@ -125,7 +125,19 @@ Tasks:
 ## Week 11 - 18-19 May 2022
 
 - Lecture:
-  - [W11- Remote sensing basics]
+  - Basics of remote sensing: 
+    - [Presentation](https://www.nateko.lu.se/sites/nateko.lu.se.sv/files/le_physical_basis_of_remote_sensing_2014.pdf)
+    - [CCRS tutorial](https://www.nrcan.gc.ca/maps-tools-and-publications/satellite-imagery-and-air-photos/tutorial-fundamentals-remote-sensing/9309)
+    - [USGS Spectral Characteristics Viewer](https://landsat.usgs.gov/spectral-characteristics-viewer)
+
+- Practical:
+  - [ESRI Landsat Explorer](https://livingatlas2.arcgis.com/landsatexplorer/)
+  - [ESRI Sentinel Explorer](https://sentinel2explorer.esri.com/)
+
+- Tasks:
+  - Use Landsat and Sentinel Explorer for creating color composites for an agricultural zone
+  - Continue writing your Informe No.2
+
 
 ## Week 12 - 25-26 May 2022
 
