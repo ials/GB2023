@@ -144,7 +144,7 @@ Tasks:
 **Entrega Informe No. 2  (15%)**
 
 - Lecture:
-  - [W12- Multispectral indices]
+  - [W12- Optical properties of leaves](https://drive.google.com/file/d/1818c8XqnvS7jwwqLQeovkYTHqnbaXTQn/view?usp=sharing)
 
 ## Week 13  - 1-2 June 2022 
 
