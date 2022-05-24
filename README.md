@@ -150,6 +150,9 @@ Tasks:
 - Practical:
   - [Get Landsat data from R](https://rpubs.com/ials2un/getlandsat)
 
+- Further practical:
+  - [Remote sensing time series from the web](https://rpubs.com/ials2un/modis_veg_ts)
+
 ## Week 13  - 1-2 June 2022 
 
 - Lecture:
