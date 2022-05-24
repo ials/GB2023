@@ -147,6 +147,9 @@ Tasks:
   - [W12- Optical properties of leaves](https://drive.google.com/file/d/1818c8XqnvS7jwwqLQeovkYTHqnbaXTQn/view?usp=sharing)
   - [Remote sensing indices](https://docs.google.com/presentation/d/1yWZQSifVKWLVPKfgpdVhd-ZbeXAshjGM/edit?usp=sharing&ouid=101294548671143516389&rtpof=true&sd=true)
 
+- Practical:
+  - [Get Landsat data from R](https://rpubs.com/ials2un/getlandsat)
+
 ## Week 13  - 1-2 June 2022 
 
 - Lecture:
