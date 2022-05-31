@@ -156,7 +156,10 @@ Tasks:
 ## Week 13  - 1-2 June 2022 
 
 - Lecture:
-  - [W13 - Spatial interpolation I]
+  - [W13 - Spatial interpolation I](https://docs.google.com/presentation/d/1LW5_7buFTCnewWj6X7Fv8eVtePGYF9iK/edit?usp=sharing&ouid=101294548671143516389&rtpof=true&sd=true)
+
+- Practical:
+  - [Spatial interpolation in R](https://rpubs.com/ials2un/interpol)
 
 ## Week 14  - 8-9 June 2022
 
