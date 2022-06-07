@@ -163,8 +163,11 @@ Tasks:
 
 ## Week 14  - 8-9 June 2022
 
-- Lecture:
-  - [W14 - Spatial interpolation II]
+- Reading:
+  - [Spatial interpolation of soil organic carbon](https://www.sciencedirect.com/science/article/pii/S1658077X15300825)
+
+- Practical:
+  - [Climate data revisited](https://rpubs.com/ials2un/climate)
 
 ## Week 15 - 15-16 June 2022
 
