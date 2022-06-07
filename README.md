@@ -169,6 +169,8 @@ Tasks:
 - Practical:
   - [Climate data revisited](https://rpubs.com/ials2un/climate)
 
+- [Notas Informe No. 1](https://drive.google.com/file/d/1-news_reiXA2bvP9G--yqBrGXMtL5EhO/view?usp=sharing)
+
 ## Week 15 - 15-16 June 2022
 
 - Lecture:
