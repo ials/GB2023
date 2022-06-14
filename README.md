@@ -169,12 +169,17 @@ Tasks:
 - Practical:
   - [Climate data revisited](https://rpubs.com/ials2un/climate)
 
-- [Notas Informe No. 1](https://drive.google.com/file/d/1-news_reiXA2bvP9G--yqBrGXMtL5EhO/view?usp=sharing)
+- [Notas Informe 1](https://drive.google.com/file/d/13Kv998F6TDfLMnwcTwXM2rPSXkNO6TI_/view?usp=sharing)
 
 ## Week 15 - 15-16 June 2022
 
 - Lecture:
-  - [W15 - Machine learning]
+  - [W15 - Digital soil mapping](https://drive.google.com/file/d/1bx5OO0um6fYcm77-lMaN3VNLNUQBDFR3/view?usp=sharing)
+
+- Practical:
+  - [Spatial interpolation reloaded](https://rpubs.com/ials2un/clim_interp)
+
+- [Notas Informe 2](https://drive.google.com/file/d/1KsOHBLN5vjfReTjPShxF1SdaOe8QUZSj/view?usp=sharing)
 
 ## Week 16  - 22-23 June 2022
 
