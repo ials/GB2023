@@ -184,7 +184,7 @@ Tasks:
 ## Week 16  - 22-23 June 2022
 
 - Lecture:
-  - [W16 - Digital agriculture]
+  - [W16 - Machine learning in agriculture](https://drive.google.com/file/d/1Hu0cunz87V2uj977dHDCuT5ZHjrNlOE_/view?usp=sharing)
 
 **Entrega Informe No. 3  (20%)**
 
