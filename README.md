@@ -179,7 +179,7 @@ Tasks:
 - Practical:
   - [Spatial interpolation reloaded](https://rpubs.com/ials2un/clim_interp)
 
-- [Notas Informe 2](https://drive.google.com/file/d/1KsOHBLN5vjfReTjPShxF1SdaOe8QUZSj/view?usp=sharing)
+- [Notas Informe 2](https://drive.google.com/file/d/1sKDy2Ai91nVX7WEn7N76sRqawM66EeH2/view?usp=sharing)
 
 ## Week 16  - 22-23 June 2022
 
@@ -187,6 +187,8 @@ Tasks:
   - [W16 - Machine learning in agriculture](https://drive.google.com/file/d/1Hu0cunz87V2uj977dHDCuT5ZHjrNlOE_/view?usp=sharing)
 
 **Entrega Informe No. 3  (20%)**
+- [Notas Informe 3](https://drive.google.com/file/d/1TH8oOl4VC5-KLeL484Y8nqSPIoK0Zjen/view?usp=sharing)
+
 
 ## Week 17  - 29-30 June 2022
 
