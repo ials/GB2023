@@ -196,4 +196,4 @@ Tasks:
 
 ## Week 18  - 6 July 2022
 
-Publicación de notas finales
+[Notas finales](https://drive.google.com/file/d/1jZo_0NXwcaaYvNOX-7LEQ5KWefAeZjVj/view?usp=sharing)
