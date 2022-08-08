@@ -9,7 +9,7 @@ This is the main communication site for the course. Here you will find the lectu
 - To develop practical skills for understanding and processing geospatial data 
 - To offer opportunities to enhance spatial thinking  and argumentative abilities
 
-## [Programación detallada]()
+## [Programación detallada](https://drive.google.com/file/d/15kG7nDexDI_jwmEFqsMbluHFqR2Cr0DC/view?usp=sharing)
 
 ## Schedule
 ## Week 1 – Geospatial data and information – 8 to 12 August 2022
