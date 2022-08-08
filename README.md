@@ -1,4 +1,4 @@
-# UNAL - FCA - Geomatica Basica 2022-1S
+# UNAL - FCA - Geomatica Basica 2022-2S
 ## Welcome to the GB2022 course - Código SIA 2015896 
 
 This is the main communication site for the course. Here you will find the lectures, readings, and assignments. This is a place to visit regularly. 
@@ -9,191 +9,61 @@ This is the main communication site for the course. Here you will find the lectu
 - Desarrollar destrezas prácticas para realizar procesos digitales.
 - Brindar oportunidades para mejorar la capacidad argumentativa.
 
-## Programación
-## Week 1 - 9-10 March 2022
+## [Programación detallada]()
 
-- Lecture:
-  - [W1- Course introduction](https://ials.github.io/geomatica/geom_S0.html)
-  - [W1- What is special about spatial data](https://ials.github.io/geomatica/geom_S1.html)
+## Schedule
+## Week 1 – Geospatial data and information – 8 to 12 August 2022
 
-- Practical:
-  - Download spatial data for your study area
+-	Theory:
+-  Geospatial data
+-  From data to information
+-  Data models
 
-## Week 2 - 16-17 March 2022
+-     Practical:
+         - Download spatial data for your study area
+         - Check metadata
+
+-	Reading:
+       - Check metadata
+
+## Week 2 – Coordinate systems and cartographic projections -  15 to 19 August 2022
  
-- Lecture:
-  - [W2- Understanding Geodesy, Coordinate Systems and Map Projections](https://drive.google.com/file/d/1mHYaNJa8dxYYA2XSTUfThx-HyroA_563/view?usp=sharing)
 
-- Reading:
-  - [Referencias y proyección empleadas en la cartografia colombiana](https://revistas.uptc.edu.co/index.php/perspectiva/article/view/1718)
-
-- Practical:
-  - Understand projections and EPSG codes
-  - Change projection of geospatial data
-
+## Week 3 – Global Navegation Satellite Systems – 22 to 26 August
+ 
   
-## Week 3 - 23-24 March 2022
- 
-- Lecture:
-  - [W3 - Cartography](https://www.cartography.org.uk/_files/ugd/583f72_c795f5c26b3f44df84e33d1210842d80.pdf)
-  - [W3 - Thematic maps](http://www.geo.umass.edu/courses/geo494a/thematic_map_design.pdf)
+## Week 4 -  Cartography – 29 August to 2 September
 
-- QGIS Practical:
-  - [How to make a map of municipalities](https://drive.google.com/file/d/18UMx5zLUpfd_UetZwmBlX97J8yPMeJwk/view?usp=sharing)
+
+## Week 5 -  Academic fieldwork – 6 to 8 September
+
+**Visit to Centro de Investigaciones La Libertad (Agrosavia)**
    
-- R Practical - Notebook 1: main crops in a department 
-  - [How to select statistics for important crops](https://rpubs.com/ials2un/readingEVAv1)
+## Week 6 – Spatial databases – 12 to 16 September
 
+## Week 7 – Spatial data queries  - 19 to 23 September
+**Examen No. 1  (25%) – 21 de septiembre**
+
+## Week 8 – Geographic web services -  26 to 30 September
+**Entrega Informe No. 1  (25%) – 30 de septiembre**
+
+## Week 9 – Spatial and thematic accuracy -  3 to 7  October
+
+## Week 10 – Photogrammetry – 10 to 14 October
   
-## Week 4 - 30-31 March 2022
+## Week 11 – Digital elevation models – 17 to 21 October
 
-- Lecture:
-  - [W4- Queries, Joins, and Thematic Maps](https://drive.google.com/file/d/1Lu5nddq_C610RVRCkzcipFPtaMSVGVLH/view?usp=sharing)
-  - Instructions for Informe No. 1
+## Week 12 – Physics of remote sensing – 24 to 28 October
 
-- Study this cheatsheet:
-  - [Data Wrangling with dplyr and tidyr](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
+## Week 13  - Remote sensing of vegetation – 31 October to 4 November
 
-- R Practical: 
-  - Notebook 2: making thematic maps 
-    - [How to make joins and maps](https://rpubs.com/ials2un/thematic_maps_v2)
+## Week 14  - Spatial interpolation I -   7 to 11 November
 
-- QGIS Practical:
-  - [How to join agricultural stats to municipalities](https://drive.google.com/file/d/1RHAYTaRMR1xo_ivCHcHQxhnPRHqm7dJN/view?usp=sharing)
+## Week 15 - Spatial interpolation II -   7 to 11 November
 
-- Resources on making thematic maps with QGIS:
-  - [Guía escrita y videos](https://sites.google.com/unal.edu.co/gb2020/3-cartograf%C3%ADa-tem%C3%A1tica)
- 
-## Week 5 - 6-7 April 2022
+## Week 16  - Machine learning -  21 to 25 November
+**Examen No. 2  (25%) – 23 de noviembre**
 
-- Lecture:
-  - TBD
+## Week 17  - Digital agriculture – 28  November to 2 December
+**Entrega Informe No. 2  (25%) – 30 de noviembre**
 
-- R Practical:
-  - Notebook 3: crop dynamic analysis
-    - [How to analyze multi-year stats](https://rpubs.com/ials2un/885444)
-
-Tasks:
-  - Complete the QGIS & R practicals
-  - Write the Informe No. 1
-   
-## Week 6 - 13-14 April 2022
-
-**Holy Week** 
-
-## Week 7 - 20-21 April 2022
-
-**Entrega Informe No. 1  (15%)**
-
-- Lecture:
-  - [W7- Geospatial web services]
-  - [Orthoimagery](https://www.ideca.gov.co/buscador?topic=59)
-
-- Practical:
-  - [Field Digitization using QGIS](https://www.qgistutorials.com/en/docs/3/digitizing_basics.html)
-
-## Week 8 - 27-28 April 2022
-
-- Lecture:
-  - [W8- Global Navegation Satellite Systems](https://drive.google.com/file/d/1GyGIJuZi2XXlvY4uk9EDVJcckDRssTFC/view)
-
-- Readings:
-  - [How to plot GPX tracks with R](https://rpubs.com/ials2un/gpx1)
-  - [What is trilateration?](https://drive.google.com/file/d/10uHGYrgk5LjkQZw5U0H8hjyx_VuyPiGw/view)
-
-- Practical:
-  - Learn to use the GARMIN GPSMap 64sc
-  - Survey selected polygons, lines and points within the campus
-
-## Week 9 - 4-5 May 2022
-
-**Examen No. 1  (25%)**
-
-**Salida de campo el día 6 Mayo**
-
-## Week 10 - 11-12 May 2022
-
-- Lecture:
-   - [Digital Elevation Models](https://drive.google.com/file/d/15cJRUeEQw2nMi8VK9Lk8v1frv_DC3JsY/view)
-
-- Reading:
-   - [Geomorphometry - A Brief Guide](https://drive.google.com/file/d/12waqdGE3h87wKevUQJXytmXej-8Qvw7C/view?usp=sharing)
-
-- Practical:
-   - [Obtain, process and visualize digital elevation models in R](https://rpubs.com/ials2un/boyaca_dem)
-  
-## Week 11 - 18-19 May 2022
-
-- Lecture:
-  - Basics of remote sensing: 
-    - [Presentation](https://www.nateko.lu.se/sites/nateko.lu.se.sv/files/le_physical_basis_of_remote_sensing_2014.pdf)
-    - [CCRS tutorial](https://www.nrcan.gc.ca/maps-tools-and-publications/satellite-imagery-and-air-photos/tutorial-fundamentals-remote-sensing/9309)
-    - [USGS Spectral Characteristics Viewer](https://landsat.usgs.gov/spectral-characteristics-viewer)
-
-- Practical:
-  - [ESRI Landsat Explorer](https://livingatlas2.arcgis.com/landsatexplorer/)
-  - [ESRI Sentinel Explorer](https://sentinel2explorer.esri.com/)
-
-- Tasks:
-  - Use Landsat and Sentinel Explorer for creating color composites for an agricultural zone
-  - Continue writing your Informe No.2
-
-
-## Week 12 - 25-26 May 2022
-
-**Entrega Informe No. 2  (15%)**
-
-- Lecture:
-  - [W12- Optical properties of leaves](https://drive.google.com/file/d/1818c8XqnvS7jwwqLQeovkYTHqnbaXTQn/view?usp=sharing)
-  - [Remote sensing indices](https://docs.google.com/presentation/d/1yWZQSifVKWLVPKfgpdVhd-ZbeXAshjGM/edit?usp=sharing&ouid=101294548671143516389&rtpof=true&sd=true)
-
-- Practical:
-  - [Get Landsat data from R](https://rpubs.com/ials2un/getlandsat)
-
-- Further practical:
-  - [Remote sensing time series from the web](https://rpubs.com/ials2un/modis_veg_ts)
-
-## Week 13  - 1-2 June 2022 
-
-- Lecture:
-  - [W13 - Spatial interpolation I](https://docs.google.com/presentation/d/1LW5_7buFTCnewWj6X7Fv8eVtePGYF9iK/edit?usp=sharing&ouid=101294548671143516389&rtpof=true&sd=true)
-
-- Practical:
-  - [Spatial interpolation in R](https://rpubs.com/ials2un/interpol)
-
-## Week 14  - 8-9 June 2022
-
-- Reading:
-  - [Spatial interpolation of soil organic carbon](https://www.sciencedirect.com/science/article/pii/S1658077X15300825)
-
-- Practical:
-  - [Climate data revisited](https://rpubs.com/ials2un/climate)
-
-- [Notas Informe 1](https://drive.google.com/file/d/13Kv998F6TDfLMnwcTwXM2rPSXkNO6TI_/view?usp=sharing)
-
-## Week 15 - 15-16 June 2022
-
-- Lecture:
-  - [W15 - Digital soil mapping](https://drive.google.com/file/d/1bx5OO0um6fYcm77-lMaN3VNLNUQBDFR3/view?usp=sharing)
-
-- Practical:
-  - [Spatial interpolation reloaded](https://rpubs.com/ials2un/clim_interp)
-
-- [Notas Informe 2](https://drive.google.com/file/d/1sKDy2Ai91nVX7WEn7N76sRqawM66EeH2/view?usp=sharing)
-
-## Week 16  - 22-23 June 2022
-
-- Lecture:
-  - [W16 - Machine learning in agriculture](https://drive.google.com/file/d/1Hu0cunz87V2uj977dHDCuT5ZHjrNlOE_/view?usp=sharing)
-
-**Entrega Informe No. 3  (20%)**
-- [Notas Informe 3](https://drive.google.com/file/d/1TH8oOl4VC5-KLeL484Y8nqSPIoK0Zjen/view?usp=sharing)
-
-
-## Week 17  - 29-30 June 2022
-
-**Examen No. 2  (25%)**
-
-## Week 18  - 6 July 2022
-
-[Notas finales](https://drive.google.com/file/d/1jZo_0NXwcaaYvNOX-7LEQ5KWefAeZjVj/view?usp=sharing)
