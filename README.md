@@ -24,7 +24,7 @@ This is the main communication site for the course. Here you will find the lectu
   - Check metadata
 
 - Reading:
-  - TBD
+  - [What is geomatics?](https://drive.google.com/file/d/1LxIHvXJrkvoqJXzubL2T2PTQC39ZT3gh/view?usp=sharing)
   
 ## Week 2 – Coordinate systems and cartographic projections -  15 to 19 August 2022
 ...
