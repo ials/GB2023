@@ -14,7 +14,7 @@ This is the main communication site for the course. Here you will find the lectu
 ## Schedule
 ## Week 1 – Geospatial data and information – 8 to 12 August 2022
 
-- Theory:
+- [Theory](https://drive.google.com/file/d/0BzEwvK1H17qeZDZsLUJNNzUzcW8/view?usp=sharing&resourcekey=0-krbEgAyzisaploQ9Dslb9w):
   -  Geospatial data
   -  From data to information
   -  Data models
