@@ -27,7 +27,17 @@ This is the main communication site for the course. Here you will find the lectu
   - [What is geomatics?](https://drive.google.com/file/d/1LxIHvXJrkvoqJXzubL2T2PTQC39ZT3gh/view?usp=sharing)
   
 ## Week 2 – Coordinate systems and cartographic projections -  15 to 19 August 2022
-...
+
+- Theory:
+  - [W2- Understanding Geodesy, Coordinate Systems and Map Projections](https://drive.google.com/file/d/1mHYaNJa8dxYYA2XSTUfThx-HyroA_563/view?usp=sharing)
+  
+- Practical:
+  - Understand projections and EPSG codes
+  - Change projection of geospatial data
+![image](https://user-images.githubusercontent.com/8483963/184866509-e6a04223-ae2f-436e-9b63-e49e12c35210.png)
+
+- Reading:
+  - [Referencias y proyección empleadas en la cartografia colombiana](https://revistas.uptc.edu.co/index.php/perspectiva/article/view/1718)
 
 ## Week 3 – Global Navegation Satellite Systems – 22 to 26 August
 ... 
