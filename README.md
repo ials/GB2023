@@ -34,7 +34,6 @@ This is the main communication site for the course. Here you will find the lectu
 - Practical:
   - Understand projections and EPSG codes
   - Change projection of geospatial data
-![image](https://user-images.githubusercontent.com/8483963/184866509-e6a04223-ae2f-436e-9b63-e49e12c35210.png)
 
 - Reading 2:
   - [Referencias y proyección empleadas en la cartografia colombiana](https://revistas.uptc.edu.co/index.php/perspectiva/article/view/1718)
