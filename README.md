@@ -29,7 +29,7 @@ This is the main communication site for the course. Here you will find the lectu
 ## Week 2 – Coordinate systems and cartographic projections -  15 to 19 August 2022
 
 - Theory:
-  - Geodesy, Coordinate Systems and Map Projections
+  - [Geodesy, Coordinate Systems and Map Projections](https://docs.google.com/presentation/d/1h2L1QcGnCCtpGUoCCkqfgKlA_-uvg1ug/edit?usp=sharing&ouid=101294548671143516389&rtpof=true&sd=true)
   
 - Practical:
   - Understand projections and EPSG codes
