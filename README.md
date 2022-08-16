@@ -85,3 +85,4 @@ This is the main communication site for the course. Here you will find the lectu
 ## Week 17  - Digital agriculture – 28  November to 2 December
 **Entrega Informe No. 2  (25%) – 30 de noviembre**
 
+--
