@@ -50,7 +50,6 @@ This is the main communication site for the course. Here you will find the lectu
 - Practical:
   - Learn to use the GARMIN GPSMap 64sc
   - Survey selected polygons, lines and points 
-![image](https://user-images.githubusercontent.com/8483963/186428660-cf27e971-6a6f-41c1-b5fa-72b84bc7c764.png)
   
 ## Week 4 -  Cartography – 29 August to 2 September
 ...
