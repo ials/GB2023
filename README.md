@@ -39,7 +39,18 @@ This is the main communication site for the course. Here you will find the lectu
   - [Referencias y proyección empleadas en la cartografia colombiana](https://revistas.uptc.edu.co/index.php/perspectiva/article/view/1718)
 
 ## Week 3 – Global Navegation Satellite Systems – 22 to 26 August
-... 
+
+- Lecture:
+  - [W8- Global Navegation Satellite Systems](https://drive.google.com/file/d/1GyGIJuZi2XXlvY4uk9EDVJcckDRssTFC/view)
+
+- Readings:
+  - [How to plot GPX tracks with R](https://rpubs.com/ials2un/gpx1)
+  - [What is trilateration?](https://drive.google.com/file/d/10uHGYrgk5LjkQZw5U0H8hjyx_VuyPiGw/view)
+
+- Practical:
+  - Learn to use the GARMIN GPSMap 64sc
+  - Survey selected polygons, lines and points 
+![image](https://user-images.githubusercontent.com/8483963/186428660-cf27e971-6a6f-41c1-b5fa-72b84bc7c764.png)
   
 ## Week 4 -  Cartography – 29 August to 2 September
 ...
