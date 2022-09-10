@@ -59,8 +59,6 @@ This is the main communication site for the course. Here you will find the lectu
 - QGIS Practical:
   - [How to make a map of municipalities](https://drive.google.com/file/d/18UMx5zLUpfd_UetZwmBlX97J8yPMeJwk/view?usp=sharing)
    
-![image](https://user-images.githubusercontent.com/8483963/189480837-72c8efce-4a6d-4a97-b38b-087a2ce682b2.png)
-
 -  Home activity:
    - Students make two maps:
      - Mapa de zona de estudio (incluye municipios, ciudades, vías, hidrografía)
