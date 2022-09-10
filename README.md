@@ -52,11 +52,28 @@ This is the main communication site for the course. Here you will find the lectu
   - Survey selected polygons, lines and points 
   
 ## Week 4 -  Cartography – 29 August to 2 September
-...
+
+- [W3 - Cartography](https://www.cartography.org.uk/_files/ugd/583f72_c795f5c26b3f44df84e33d1210842d80.pdf)
+  - [W3 - Thematic maps](http://www.geo.umass.edu/courses/geo494a/thematic_map_design.pdf)
+
+- QGIS Practical:
+  - [How to make a map of municipalities](https://drive.google.com/file/d/18UMx5zLUpfd_UetZwmBlX97J8yPMeJwk/view?usp=sharing)
+   
+![image](https://user-images.githubusercontent.com/8483963/189480837-72c8efce-4a6d-4a97-b38b-087a2ce682b2.png)
+
+-  Home activity:
+   - Students make two maps:
+     - Mapa de zona de estudio (incluye municipios, ciudades, vías, hidrografía)
+     - Mapa de relieve departamental (incluye DEM, ciudades, vías, hidrografía)
 
 ## Week 5 -  Academic fieldwork – 6 to 8 September
 
-**Visit to Centro de Investigaciones La Libertad (Agrosavia)**
+**Visit to Centro de Investigaciones La Libertad (Agrosavia) was canceled**
+
+UNAL campus activity:
+-  GPS Survey
+- UAV Flight
+-  QGIS Map making
    
 ## Week 6 – Spatial databases – 12 to 16 September
 ...
