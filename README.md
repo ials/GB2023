@@ -74,7 +74,13 @@ UNAL campus activity:
 -  QGIS Map making
    
 ## Week 6 – Spatial databases – 12 to 16 September
-...
+
+Lecture:
+- Pre-processing UAV images
+
+Practical:
+- [My first R notebook](https://rpubs.com/ials2un/readingEVAv1)
+  - [Evaluaciones Agropecuarias Municipales (EVA)](https://www.upra.gov.co/web/guest/eva-2021)
 
 ## Week 7 – Spatial data queries  - 19 to 23 September
 **Examen No. 1  (25%) – 21 de septiembre**
