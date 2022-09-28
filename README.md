@@ -83,33 +83,50 @@ Practical:
   - [Evaluaciones Agropecuarias Municipales (EVA)](https://www.upra.gov.co/web/guest/eva-2021)
 
 ## Week 7 – Spatial data queries  - 19 to 23 September
-**Examen No. 1  (25%) – 21 de septiembre**
 
-## Week 8 – Geographic web services -  26 to 30 September
-**Entrega Informe No. 1  (25%) – 30 de septiembre**
+- Independent activities:
+  - Do your homework
+  - Complete and publish your first R notebook
+    - Due date:  20 September    
 
-## Week 9 – Spatial and thematic accuracy -  3 to 7  October
-...
+## Week 8 – Tidyverse -  26 to 30 September
 
-## Week 10 – Photogrammetry – 10 to 14 October
+Lecture:
+- [What is the Tidyverse?](https://m-clark.github.io/data-processing-and-visualization/tidyverse.html)
+
+Practical:
+- [My second R notebook](https://rpubs.com/ials2un/thematic_maps_v1)
+  - How to make thematic maps
+  
+**Examen No. 1  (25%) – 29 September**
+
+## Week 9 –  -  3 to 7  October
+
+**Entrega Informe No. 1  (25%) – 5 October**:
+1.  Mapa de zona de estudio impreso a color
+2.  Mapa de relieve departamental impreso a color 
+3.  Cuaderno No. 1 publicado
+4.  Cuaderno No. 2 publicado
+
+## Week 10 – Geographic web services – 10 to 14 October
 ...  
 
-## Week 11 – Digital elevation models – 17 to 21 October
+## Week 11 – Spatial and thematic accuracy – 17 to 21 October
 ...
 
-## Week 12 – Physics of remote sensing – 24 to 28 October
+## Week 12 – Digital elevation models – 24 to 28 October
 ...
 
-## Week 13  - Remote sensing of vegetation – 31 October to 4 November
+## Week 13  - Physics of remote sensing – 31 October to 4 November
 ...
 
-## Week 14  - Spatial interpolation I -   7 to 11 November
+## Week 14  -  Remote sensing of vegetation  7 to 11 November
 ...
 
-## Week 15 - Spatial interpolation II -   7 to 11 November
+## Week 15 - Spatial interpolation I -  7 to 11 November
 ...
 
-## Week 16  - Machine learning -  21 to 25 November
+## Week 16  - Spatial interpolation II -   21 to 25 November
 **Examen No. 2  (25%) – 23 de noviembre**
 
 ## Week 17  - Digital agriculture – 28  November to 2 December
