@@ -100,13 +100,19 @@ Practical:
   
 **Examen No. 1  (25%) – 29 September**
 
-## Week 9 –  -  3 to 7  October
+## Week 9 – Thematic maps revisited -  3 to 7  October
+
+Lecture:
+- [Data visualization in R](https://circabc.europa.eu/sd/a/0cc8e215-587e-4c14-b903-1b717dae8415/Visualization_in_R.PPTX)
+
+Practical:
+- [A revised version of the second notebook](https://rpubs.com/ials2un/thematic_maps_v2)
 
 **Entrega Informe No. 1  (25%) – 5 October**:
 1.  Mapa de zona de estudio impreso a color
 2.  Mapa de relieve departamental impreso a color 
-3.  Cuaderno No. 1 publicado
-4.  Cuaderno No. 2 publicado
+3.  Cuaderno No. 1 publicado en RPubs
+4.  Cuaderno No. 2 publicado en RPubs
 
 ## Week 10 – Geographic web services – 10 to 14 October
 ...  
