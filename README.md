@@ -115,7 +115,13 @@ Practical:
 4.  Cuaderno No. 2 publicado en RPubs
 
 ## Week 10 – Geographic web services – 10 to 14 October
-...  
+
+Lecture:
+- [OGC Standards](http://learningzone.rspsoc.org.uk/index.php/Learning-Materials/Introduction-to-OGC-Standards/2.2-Common-OGC-standards)
+
+Practical:
+- Acessing web services:
+  - [Sistema de Información para la Planificación Rural Agropecuaria (SIPRA)](https://sipra.upra.gov.co/nacional)
 
 ## Week 11 – Spatial and thematic accuracy – 17 to 21 October
 ...
