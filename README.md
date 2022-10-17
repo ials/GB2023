@@ -123,10 +123,10 @@ Practical:
 - Acessing web services:
   - [Sistema de Información para la Planificación Rural Agropecuaria (SIPRA)](https://sipra.upra.gov.co/nacional)
 
-## Week 11 – Spatial and thematic accuracy – 17 to 21 October
+## Week 11 – Spatial data quality – 17 to 21 October
 
 Lecture:
- - Spatial data quality
+ - [Spatial data quality](https://drive.google.com/file/d/1HL2qGt8JiDKO1k8LKhIyOXxZCcxv32IN/view?usp=sharing)
 
 Practical:
  - Digitize polygons, lines and points over the campus orthophoto
