@@ -124,7 +124,15 @@ Practical:
   - [Sistema de Información para la Planificación Rural Agropecuaria (SIPRA)](https://sipra.upra.gov.co/nacional)
 
 ## Week 11 – Spatial and thematic accuracy – 17 to 21 October
-...
+
+Lecture:
+ - Spatial data quality
+
+Practical:
+ - Digitize polygons, lines and points over the campus orthophoto
+ - Upload your GPX data to QGIS
+ - Evaluate spatial accuracy
+
 
 ## Week 12 – Digital elevation models – 24 to 28 October
 ...
