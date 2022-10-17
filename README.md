@@ -121,6 +121,7 @@ Lecture:
 
 Practical:
 - Acessing web services:
+  - IDECA - Orthophoto 2017
   - [Sistema de Información para la Planificación Rural Agropecuaria (SIPRA)](https://sipra.upra.gov.co/nacional)
 
 ## Week 11 – Spatial data quality – 17 to 21 October
