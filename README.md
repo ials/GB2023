@@ -134,9 +134,19 @@ Practical:
  - Upload your GPX data to QGIS
  - Evaluate spatial accuracy
 
-
 ## Week 12 – Digital elevation models – 24 to 28 October
-...
+
+Lecture:
+- [Digital elevation models](https://up42.com/blog/tech/everything-you-need-to-know-about-digital-elevation-models-dem-digital)
+- [An illustrated guide to geomorphometry](http://iflorinsky.impb.ru/Florinsky-2017i.pdf)
+
+Practical:
+- Visualize a DSM for your study
+- Compute geomorphometric variables
+
+Tasks:
+- Study the slope and aspect algorithms most used in GIS
+
 
 ## Week 13  - Physics of remote sensing – 31 October to 4 November
 ...
