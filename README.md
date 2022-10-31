@@ -155,7 +155,7 @@ Lecture:
 Practical:
 - Write the following two R notebooks:
   -[Get climate normals](https://rpubs.com/ials2un/climate)
-  -[Conduct spatial interpolation]https://rpubs.com/ials2un/climate
+  -[Conduct spatial interpolation](https://rpubs.com/ials2un/clim_interp)
   
 **El plazo para publicar sus dos cuadernos es el 30 de noviembre a las 11:59 pm**
 
