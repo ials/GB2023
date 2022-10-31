@@ -141,23 +141,31 @@ Lecture:
 - [An illustrated guide to geomorphometry](http://iflorinsky.impb.ru/Florinsky-2017i.pdf)
 
 Practical:
-- Visualize a DSM for your study
+- Visualize a DSM for your study area
 - Compute geomorphometric variables
 
 Tasks:
 - Study the slope and aspect algorithms most used in GIS
 
+## Week 13  - Spatial interpolation I – 31 October to 4 November
+ 
+Lecture:
+- [What is spatial interpolation?](https://docs.google.com/presentation/d/1cWq7OUqMNGEB761Wj3It2WBS0SVTzPJb/edit?usp=sharing&ouid=101294548671143516389&rtpof=true&sd=true)
 
-## Week 13  - Physics of remote sensing – 31 October to 4 November
+Practical:
+- Write the following two R notebooks:
+  -[Get climate normals](https://rpubs.com/ials2un/climate)
+  -[Conduct spatial interpolation]https://rpubs.com/ials2un/climate
+  
+**El plazo para publicar sus dos cuadernos es el 30 de noviembre a las 11:59 pm**
+
+## Week 14  -  Spatial interpolation II -  7 to 11 November
 ...
 
-## Week 14  -  Remote sensing of vegetation  7 to 11 November
+## Week 15 - Physics of remote sensing  -  14 to 18 November
 ...
 
-## Week 15 - Spatial interpolation I -  7 to 11 November
-...
-
-## Week 16  - Spatial interpolation II -   21 to 25 November
+## Week 16  - Remote sensing of vegetation -   21 to 25 November
 **Examen No. 2  (25%) – 23 de noviembre**
 
 ## Week 17  - Digital agriculture – 28  November to 2 December
