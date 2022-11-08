@@ -153,14 +153,20 @@ Lecture:
 - [What is spatial interpolation?](https://docs.google.com/presentation/d/1cWq7OUqMNGEB761Wj3It2WBS0SVTzPJb/edit?usp=sharing&ouid=101294548671143516389&rtpof=true&sd=true)
 
 Practical:
-- Write the following two R notebooks:
+- Write the following R notebook:
     - [Get climate normals](https://rpubs.com/ials2un/climate)
     - [Conduct spatial interpolation](https://rpubs.com/ials2un/clim_interp)
   
 **El plazo para publicar sus dos cuadernos es el 30 de noviembre a las 11:59 pm**
 
 ## Week 14  -  Spatial interpolation II -  7 to 11 November
-...
+
+Lecture:
+- [Kriging interpolation](https://www.publichealth.columbia.edu/research/population-health-methods/kriging-interpolation)
+
+Practical:
+- Write the following R notebook:
+    - [Conduct spatial interpolation](https://rpubs.com/ials2un/clim_interp)
 
 ## Week 15 - Physics of remote sensing  -  14 to 18 November
 ...
