@@ -168,13 +168,20 @@ Practical:
 - Write the following R notebook:
     - [Conduct spatial interpolation](https://rpubs.com/ials2un/clim_interp)
 
-## Week 15 - Physics of remote sensing  -  14 to 18 November
-...
+## Week 15 - Fundamentals of remote sensing  -  14 to 18 November
+
+Lecture:
+- [Remote sensing tutorials](https://www.nrcan.gc.ca/maps-tools-and-publications/satellite-imagery-and-air-photos/tutorial-fundamentals-remote-sensing/9309)
+
+Prectical:
+- [Landsat Explorer](https://mixdyr.files.wordpress.com/2020/10/guia_basica_landsat_explorer_rf-2.pdf)
 
 ## Week 16  - Remote sensing of vegetation -   21 to 25 November
+
 **Examen No. 2  (25%) – 23 de noviembre**
 
 ## Week 17  - Digital agriculture – 28  November to 2 December
+
 **Entrega Informe No. 2  (25%) – 30 de noviembre**
 
 --
