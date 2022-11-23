@@ -180,6 +180,8 @@ Prectical:
 
 **Examen No. 2  (25%) – 23 de noviembre**
 
+[Crop disease severity from UAV images](https://drive.google.com/file/d/1oYP2hV8ncy-9M5QXMQvIiBVuQa6ewnmh/view?usp=sharing)
+
 ## Week 17  - Digital agriculture – 28  November to 2 December
 
 **Entrega Informe No. 2  (25%) – 30 de noviembre**
