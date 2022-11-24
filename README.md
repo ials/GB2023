@@ -186,4 +186,8 @@ Prectical:
 
 **Entrega Informe No. 2  (25%) – 30 de noviembre**
 
+NOTAS:
+- [Examen 1](https://drive.google.com/file/d/12Dx-ti3n0FPuNoZsDPTwzYAPs0MfAR8s/view?usp=sharing)
+- [Examen 2]()
+
 --
