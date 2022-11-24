@@ -180,7 +180,12 @@ Prectical:
 
 **Examen No. 2  (25%) – 23 de noviembre**
 
-[Crop disease severity from UAV images](https://drive.google.com/file/d/1oYP2hV8ncy-9M5QXMQvIiBVuQa6ewnmh/view?usp=sharing)
+Lecture:
+- [Discover NDVI and its practical uses in agriculture](https://openweather.co.uk/blog/post/discover-ndvi-and-its-practical-uses-agriculture)
+- [Crop disease severity from UAV images](https://drive.google.com/file/d/1oYP2hV8ncy-9M5QXMQvIiBVuQa6ewnmh/view?usp=sharing)
+
+Practical:
+- Explore Agro Dashboard's functionalities
 
 NOTAS PARCIALES:
  - [Examen No. 1](https://drive.google.com/file/d/12Dx-ti3n0FPuNoZsDPTwzYAPs0MfAR8s/view?usp=sharing)
