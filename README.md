@@ -195,4 +195,6 @@ NOTAS PARCIALES:
 
 **Entrega Informe No. 2  (25%) – 30 de noviembre**
 
+-  [Informe No. 2](https://drive.google.com/file/d/1Dn7LLlE4kQPfAvNyqNRKWzpMOCOyV9bf/view?usp=share_link)
+
 --
