@@ -56,14 +56,14 @@ This is the main communication site for the course. Here you will find the lectu
 ## Week 4 - Geographic databases - 1-2 March
 
 - Theory:
--	¿What is a spatial database?
--	¿What are common database formats?
--	¿What is SQL?
--	¿What are the main query functions?
--	¿How to join geographic data both spatially and not spatially?
+  -	¿What is a spatial database?
+  -	¿What are common database formats?
+  -	¿What is SQL?
+  -	¿What are the main query functions?
+  -	¿How to join geographic data both spatially and not spatially?
 
 - GIS Practical:
--	Spatial and non spatial joins
--	Queries
+  -	Spatial and non spatial joins
+  -	Queries
 
 
