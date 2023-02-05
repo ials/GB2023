@@ -19,7 +19,7 @@ This is the main communication site for the course. Here you will find the lectu
   -  From data to information
   -  [Data models](https://drive.google.com/file/d/0BzEwvK1H17qeZDZsLUJNNzUzcW8/view?usp=sharing&resourcekey=0-krbEgAyzisaploQ9Dslb9w)
 
-- Practical:
+- GIS Practical:
   - Download spatial data for your study area
   - Check metadata
 
@@ -31,36 +31,39 @@ This is the main communication site for the course. Here you will find the lectu
 - Theory:
   - [Geodesy, Coordinate Systems and Map Projections](https://docs.google.com/presentation/d/1h2L1QcGnCCtpGUoCCkqfgKlA_-uvg1ug/edit?usp=sharing&ouid=101294548671143516389&rtpof=true&sd=true)
   
-- Practical:
+- GIS Practical:
   - Understand projections and EPSG codes
   - Change projection of geospatial data
 
 - Reading 2:
   - [Referencias y proyección empleadas en la cartografia colombiana](https://revistas.uptc.edu.co/index.php/perspectiva/article/view/1718)
 
-## Week 3 – Global Navegation Satellite Systems – 22 - 23 February
 
-- Lecture:
-  - [W8- Global Navegation Satellite Systems](https://drive.google.com/file/d/1GyGIJuZi2XXlvY4uk9EDVJcckDRssTFC/view)
+## Week 3 -  Cartography – 22 -23 February -  
 
-- Readings:
-  - [How to plot GPX tracks with R](https://rpubs.com/ials2un/gpx1)
-  - [What is trilateration?](https://drive.google.com/file/d/10uHGYrgk5LjkQZw5U0H8hjyx_VuyPiGw/view)
-
-- Practical:
-  - Learn to use the GARMIN GPSMap 64sc
-  - Survey selected polygons, lines and points 
-  
-## Week 4 -  Cartography – 1 -2 March -  
-
-- [W3 - Cartography](https://www.cartography.org.uk/_files/ugd/583f72_c795f5c26b3f44df84e33d1210842d80.pdf)
+- Theory:
+  - [W3 - Cartography](https://www.cartography.org.uk/_files/ugd/583f72_c795f5c26b3f44df84e33d1210842d80.pdf)
   - [W3 - Thematic maps](http://www.geo.umass.edu/courses/geo494a/thematic_map_design.pdf)
 
-- QGIS Practical:
+- GIS Practical:
   - [How to make a map of municipalities](https://drive.google.com/file/d/18UMx5zLUpfd_UetZwmBlX97J8yPMeJwk/view?usp=sharing)
    
 -  Home activity:
    - Students make two maps:
      - Mapa de zona de estudio (incluye municipios, ciudades, vías, hidrografía)
      - Mapa de relieve departamental (incluye DEM, ciudades, vías, hidrografía)
+
+## Week 4 - Geographic databases - 1-2 March
+
+- Theory:
+-	¿What is a spatial database?
+-	¿What are common database formats?
+-	¿What is SQL?
+-	¿What are the main query functions?
+-	¿How to join geographic data both spatially and not spatially?
+
+- GIS Practical:
+-	Spatial and non spatial joins
+-	Queries
+
 
