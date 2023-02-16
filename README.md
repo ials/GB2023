@@ -42,6 +42,8 @@ This is the main communication site for the course. Here you will find the lectu
 - Reading 2:
   - [Referencias y proyección empleadas en la cartografia colombiana](https://revistas.uptc.edu.co/index.php/perspectiva/article/view/1718)
 
+- **REFERENCIA**
+  - [QGIS tutorials and tips](http://www.qgistutorials.com/en/)
 
 ## Week 3 -  Cartography – 22 -23 February -  
 
