@@ -58,6 +58,7 @@ This is the main communication site for the course. Here you will find the lectu
    - Students make two maps:
      - Mapa de zona de estudio (incluye municipios, ciudades, vías, hidrografía)
      - Mapa de relieve departamental (incluye DEM, ciudades, vías, hidrografía)
+   - *Please bring  the two color map prints to the classroom on 2nd March 2023* 
 
 ## Week 4 - Geographic databases - 1-2 March
 
