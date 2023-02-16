@@ -35,6 +35,9 @@ This is the main communication site for the course. Here you will find the lectu
 - GIS Practical:
   - Understand projections and EPSG codes
   - Change projection of geospatial data
+  - Datasets:
+    - [Roads, water, population](https://www.diva-gis.org/gdata)
+    - [Colombian cities](https://drive.google.com/file/d/1LXM6xXSfbALl1Rt9Gk7ucLB-l48-3cy6/view?usp=sharing)
 
 - Reading 2:
   - [Referencias y proyección empleadas en la cartografia colombiana](https://revistas.uptc.edu.co/index.php/perspectiva/article/view/1718)
