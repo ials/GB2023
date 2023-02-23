@@ -60,6 +60,9 @@ This is the main communication site for the course. Here you will find the lectu
      - Mapa de relieve departamental (incluye DEM, ciudades, vías, hidrografía) - [Ejemplo](https://drive.google.com/file/d/1LeAiJSpuKmCteEH6Owe5OzNyF-MZXVaS/view?usp=sharing)
    - *Please bring  the two color map prints to the classroom on 2nd March 2023* 
 
+- **DO YOU NEED HELP?  REVIEW THIS REFERENCE:**
+  - [QGIS tutorials and tips](http://www.qgistutorials.com/en/)
+
 ## Week 4 - Geographic databases - 1-2 March
 
 - Theory:
