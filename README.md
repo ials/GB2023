@@ -73,7 +73,14 @@ This is the main communication site for the course. Here you will find the lectu
   -	¿How to join geographic data both spatially and not spatially?
 
 - GIS Practical:
-  -	Spatial and non spatial joins
-  -	Queries
-
-
+  - Download data:
+    - [Evaluaciones Agropecuarias Municipales EVA](https://www.datos.gov.co/Agricultura-y-Desarrollo-Rural/Evaluaciones-Agropecuarias-Municipales-EVA/2pnw-mmge)
+    - [MGN2018 Integrado con CNPV2018, nivel de Municipio](https://www.dane.gov.co/files/geoportal-provisional/SHP_MGN2018_INTGRD_MPIO.zip)
+  
+  - Read EVA and MGN2018 using QGIS
+  - Clip the MGN2018 layer to match your study area
+  - Visualize the municipalities with different colors based on population
+ 
+- Home activity:
+  - Start learning R using the following tutorial:
+    - [Introducción a R](https://www.uv.es/vcoll/curso_r.html)
