@@ -73,14 +73,35 @@ This is the main communication site for the course. Here you will find the lectu
   -	¿How to join geographic data both spatially and not spatially?
 
 - GIS Practical:
+  - Start getting to know R
+  - First steps with the *tidyverse*
+    - Install the *tidyverse* 
+    - [Start doing data wrangling with dplyr](https://sgfin.github.io/files/cheatsheets/R_cheatsheet_dplyr.pdf)
+    - You have to write the code within the cheatsheet
+      - Be aware that *iris* and *mtcars* are pre-loaded "tables"
+ 
+- Home activity:
+  - Make corrections to your two maps according to suggestions made in the classroom
+  - **Print the two maps in color and bring them to class on 9th March** 
+  
+- Reference:
+  - You may strenghten your R skills:
+    - [Introducción a R](https://www.uv.es/vcoll/curso_r.html)
+
+## Week 5 – Data exploration, query and wrangling
+
+- Theory:
+- How to read geospatial data in R?
+- How to create pipelines to select, filter, mutate, group, summarize, and arrange?
+
+- R Practical:
   - Download data:
     - [Evaluaciones Agropecuarias Municipales EVA](https://www.datos.gov.co/Agricultura-y-Desarrollo-Rural/Evaluaciones-Agropecuarias-Municipales-EVA/2pnw-mmge)
     - [MGN2018 Integrado con CNPV2018, nivel de Municipio](https://www.dane.gov.co/files/geoportal-provisional/SHP_MGN2018_INTGRD_MPIO.zip)
-  
-  - Read EVA and MGN2018 using QGIS
+ - Explore  data: 
+  - Read EVA and MGN2018 in QGIS
   - Clip the MGN2018 layer to match your study area
   - Visualize the municipalities with different colors based on population
+  - Read EVA and MGN in R
  
-- Home activity:
-  - Start learning R using the following tutorial:
-    - [Introducción a R](https://www.uv.es/vcoll/curso_r.html)
+
