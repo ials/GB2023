@@ -82,26 +82,29 @@ This is the main communication site for the course. Here you will find the lectu
  
 - Home activity:
   - Make corrections to your two maps according to suggestions made in the classroom
-  - **Print the two maps in color and bring them to class on 9th March** 
+  - **Print the two maps in color and bring them to class on 9th March in a closed envelope** (This is the due date)
   
 - Reference:
-  - You may strenghten your R skills:
+  - You may strengthen your R skills:
     - [Introducción a R](https://www.uv.es/vcoll/curso_r.html)
 
 ## Week 5 – Data exploration, query and wrangling
 
 - Theory:
-- How to read geospatial data in R?
-- How to create pipelines to select, filter, mutate, group, summarize, and arrange?
+  - How to read geospatial data in R?
+  - How to create pipelines to select, filter, mutate, group, summarize, and arrange?
 
 - R Practical:
   - Download data:
-    - [Evaluaciones Agropecuarias Municipales EVA](https://www.datos.gov.co/Agricultura-y-Desarrollo-Rural/Evaluaciones-Agropecuarias-Municipales-EVA/2pnw-mmge)
-    - [MGN2018 Integrado con CNPV2018, nivel de Municipio](https://www.dane.gov.co/files/geoportal-provisional/SHP_MGN2018_INTGRD_MPIO.zip)
- - Explore  data: 
-  - Read EVA and MGN2018 in QGIS
-  - Clip the MGN2018 layer to match your study area
-  - Visualize the municipalities with different colors based on population
-  - Read EVA and MGN in R
+      - [Evaluaciones Agropecuarias Municipales EVA](https://www.datos.gov.co/Agricultura-y-Desarrollo-Rural/Evaluaciones-Agropecuarias-Municipales-EVA/2pnw-mmge)
+      - [MGN2018 Integrado con CNPV2018, nivel de Municipio](https://www.dane.gov.co/files/geoportal-provisional/SHP_MGN2018_INTGRD_MPIO.zip)
+    
+  - Explore  data: 
+      - Read EVA and MGN2018 in QGIS
+      - Clip the MGN2018 layer to match your study area
+      - Visualize the municipalities with different colors based on population
+      - Write and publish your first R notebook:
+        - Reading EVA and MGN2018
  
-
+- Home activity:
+   - **Write your second R notebook** 
