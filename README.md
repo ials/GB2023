@@ -97,6 +97,7 @@ This is the main communication site for the course. Here you will find the lectu
 - R Practical:
   - Download data:
       - [Evaluaciones Agropecuarias Municipales EVA](https://www.datos.gov.co/Agricultura-y-Desarrollo-Rural/Evaluaciones-Agropecuarias-Municipales-EVA/2pnw-mmge)
+        - Go to Export and download the data in CSV format
       - [MGN2018 Integrado con CNPV2018, nivel de Municipio](https://www.dane.gov.co/files/geoportal-provisional/SHP_MGN2018_INTGRD_MPIO.zip)
     
   - Explore  data: 
