@@ -116,11 +116,11 @@ This is the main communication site for the course. Here you will find the lectu
   - How to visualize geospatial data in R?
 
 - Explore  data: 
-      - Download MGN2018 and read it in R
-        - [MGN2018 Integrado con CNPV2018, nivel de Municipio](https://www.dane.gov.co/files/geoportal-provisional/SHP_MGN2018_INTGRD_MPIO.zip)
-      - Clip the MGN2018 layer to match your study area
-      - Visualize the municipalities with different colors based on population
-      - Start writing your second R notebook:
+  - Download MGN2018 and read it in R
+    - [MGN2018 Integrado con CNPV2018, nivel de Municipio](https://www.dane.gov.co/files/geoportal-provisional/SHP_MGN2018_INTGRD_MPIO.zip)
+  - Clip the MGN2018 layer to match your study area
+  - Visualize the municipalities with different colors based on population
+  - Start writing your second R notebook
  
 - Home activity:
    - **Complete your second R notebook** (Plazo para publicación en RPubs:  23 de marzo)
