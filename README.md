@@ -108,7 +108,7 @@ This is the main communication site for the course. Here you will find the lectu
    - **Complete your first R notebook** (Plazo para publicación en RPubs:  16 de marzo)
      - [Reference](https://rpubs.com/ials2un/readingEVAv1)
  
- ## Week 5 – Joining spatial and non-spatial data
+## Week 6 – Joining spatial and non-spatial data
 
 - Theory:
   - How to read geospatial data in R?
