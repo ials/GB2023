@@ -102,7 +102,7 @@ This is the main communication site for the course. Here you will find the lectu
     
   - Explore  data: 
       - Read the EVA dataset in R
-      - Strat writing your first R notebook
+      - Start writing your first R notebook
        
   - Home activity:
    - **Complete your first R notebook** (Plazo para publicación en RPubs:  16 de marzo)
