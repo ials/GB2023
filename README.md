@@ -91,21 +91,37 @@ This is the main communication site for the course. Here you will find the lectu
 ## Week 5 – Data exploration, query and wrangling
 
 - Theory:
-  - How to read geospatial data in R?
+  - How to read csv data in R?
   - How to create pipelines to select, filter, mutate, group, summarize, and arrange?
 
 - R Practical:
   - Download data:
       - [Evaluaciones Agropecuarias Municipales EVA](https://www.datos.gov.co/Agricultura-y-Desarrollo-Rural/Evaluaciones-Agropecuarias-Municipales-EVA/2pnw-mmge)
         - Go to Export and download the data in CSV format
-      - [MGN2018 Integrado con CNPV2018, nivel de Municipio](https://www.dane.gov.co/files/geoportal-provisional/SHP_MGN2018_INTGRD_MPIO.zip)
+      
     
   - Explore  data: 
-      - Read EVA and MGN2018 in QGIS
+      - Read the EVA dataset in R
+      - Strat writing your first R notebook
+       
+  - Home activity:
+   - **Complete your first R notebook** (Plazo para publicación en RPubs:  16 de marzo)
+     - [Reference](https://rpubs.com/ials2un/readingEVAv1)
+ 
+ ## Week 5 – Joining spatial and non-spatial data
+
+- Theory:
+  - How to read geospatial data in R?
+  - How to join non-spatial and geospatial data in R?
+  - How to visualize geospatial data in R?
+
+- Explore  data: 
+      - Download MGN2018 and read it in R
+        - [MGN2018 Integrado con CNPV2018, nivel de Municipio](https://www.dane.gov.co/files/geoportal-provisional/SHP_MGN2018_INTGRD_MPIO.zip)
       - Clip the MGN2018 layer to match your study area
       - Visualize the municipalities with different colors based on population
-      - Write and publish your first R notebook:
-        - Reading EVA and MGN2018
+      - Start writing your second R notebook:
  
 - Home activity:
-   - **Write your second R notebook** 
+   - **Complete your second R notebook** (Plazo para publicación en RPubs:  23 de marzo)
+     - [Reference](https://rpubs.com/ials2un/thematic_maps_v2)
