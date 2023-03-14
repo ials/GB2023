@@ -107,6 +107,7 @@ This is the main communication site for the course. Here you will find the lectu
   - Home activity:
    - **Complete your first R notebook** (Plazo para publicación en RPubs:  16 de marzo)
      - [Reference](https://rpubs.com/ials2un/readingEVAv1)
+     - [Data wrangling cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
  
 ## Week 6 – Joining spatial and non-spatial data
 
@@ -124,4 +125,5 @@ This is the main communication site for the course. Here you will find the lectu
  
 - Home activity:
    - **Complete your second R notebook** (Plazo para publicación en RPubs:  23 de marzo)
-     - [Reference](https://rpubs.com/ials2un/thematic_maps_v2)
+     - [Second notebook reference](https://rpubs.com/ials2un/thematic_maps_v2)
+     - [R Markdown cheatsheet](https://posit.co/wp-content/uploads/2022/10/rmarkdown-1.pdf)
