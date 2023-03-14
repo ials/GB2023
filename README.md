@@ -111,7 +111,7 @@ This is the main communication site for the course. Here you will find the lectu
  
 ## Week 6 – Joining spatial and non-spatial data
 
-- Theory:
+- [Theory](https://drive.google.com/file/d/16xcTd7VlkVOnIufFsSvPxDEX4P1HYS2E/view?usp=sharing):
   - How to read geospatial data in R?
   - How to join non-spatial and geospatial data in R?
   - How to visualize geospatial data in R?
