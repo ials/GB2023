@@ -127,3 +127,14 @@ This is the main communication site for the course. Here you will find the lectu
    - **Complete your second R notebook** (Plazo para publicación en RPubs:  23 de marzo)
      - [Second notebook reference](https://rpubs.com/ials2un/thematic_maps_v2)
      - [R Markdown cheatsheet](https://posit.co/wp-content/uploads/2022/10/rmarkdown-1.pdf)
+ 
+## Week 7 – Refresher week
+
+- Make sure you complete the first and second notebook and update their publishing (a más tardar el 26 de marzo):
+   - ¿Have you explained what is the objetive of your notebook?
+   - ¿Does every code chunk has been explained in your notebook?
+   - ¿Have you interpreted or analyzed your results?
+   - ¿Do you have any conclusions?
+   
+- ¿Do you want to get bonus points?
+  - [Production dynamics](https://rpubs.com/ials2un/production_dyn_v1)
