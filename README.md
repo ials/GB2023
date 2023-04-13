@@ -146,4 +146,12 @@ This is the main communication site for the course. Here you will find the lectu
 - Topics:
   -  A refresher on queries, joins and maps with R
   -  What are optimal condictions to grow the most important crop in your department?
+  -  Land evaluation definition
+
+- Practical activities:
+  - Find out the agricultural suitability for the most important crop in your department
+    - [SIPRA](https://sipra.upra.gov.co/nacional)
+  - Download raster data corresponding to CEC, pH, SOC, and soil classes for your departament
+    - [SoilGrids](https://soilgrids.org/)
+  - Visualize the soil raster data in QGIS
 
