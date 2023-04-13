@@ -135,13 +135,13 @@ This is the main communication site for the course. Here you will find the lectu
    - ¿Have you interpreted or analyzed your results?
    - ¿Do you have any conclusions?
   
-### Week 8 - Another refresher week
+## Week 8 - Another refresher week
 
 - Have you already created and published the first two R notebooks?
   - If yes, create a third notebook with [crop production dynamics for your department](https://rpubs.com/ials2un/production_dyn_v1)
   - If not, take advantage of this free time and complete them.
   
-### Week 9 - Welcome back to the course
+## Week 9 - Welcome back to the course
 
 - Topics:
   -  A refresher on queries, joins and maps with R
