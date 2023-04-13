@@ -98,8 +98,7 @@ This is the main communication site for the course. Here you will find the lectu
   - Download data:
       - [Evaluaciones Agropecuarias Municipales EVA](https://www.datos.gov.co/Agricultura-y-Desarrollo-Rural/Evaluaciones-Agropecuarias-Municipales-EVA/2pnw-mmge)
         - Go to Export and download the data in CSV format
-      
-    
+        
   - Explore  data: 
       - Read the EVA dataset in R
       - Start writing your first R notebook
@@ -141,4 +140,10 @@ This is the main communication site for the course. Here you will find the lectu
 - Have you already created and published the first two R notebooks?
   - If yes, create a third notebook with [crop production dynamics for your department](https://rpubs.com/ials2un/production_dyn_v1)
   - If not, take advantage of this free time and complete them.
+  
+### Week 9 - Welcome back to the course
+
+- Topics:
+ -  A refresher on queries, joins and maps with R
+ -  What are optimal condictions to grow the most important crop in your department?
 
