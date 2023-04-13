@@ -144,6 +144,6 @@ This is the main communication site for the course. Here you will find the lectu
 ### Week 9 - Welcome back to the course
 
 - Topics:
- -  A refresher on queries, joins and maps with R
- -  What are optimal condictions to grow the most important crop in your department?
+  -  A refresher on queries, joins and maps with R
+  -  What are optimal condictions to grow the most important crop in your department?
 
