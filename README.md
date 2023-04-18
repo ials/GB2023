@@ -154,4 +154,14 @@ This is the main communication site for the course. Here you will find the lectu
   - Download raster data corresponding to CEC, pH, SOC, and soil classes for your departament
     - [SoilGrids](https://soilgrids.org/)
   - Visualize the soil raster data in QGIS
+ 
+ ## Week 10 - 
+
+- Topics:
+  -  [How  SoilGrids are obtained?](https://soil.copernicus.org/articles/7/217/2021/)
+
+- Practical activities:
+  - [How to automate SoilGrids downloading?]
+    - [Option 1](https://rpubs.com/ials2un/soilgrids_webdav)
+    - [Option 2](https://github.com/ISRICWorldSoil/GSIF_tutorials/blob/master/SoilGrids250m/tutorial_SoilGrids250m.R)
 
