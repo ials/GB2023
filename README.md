@@ -155,10 +155,10 @@ This is the main communication site for the course. Here you will find the lectu
     - [SoilGrids](https://soilgrids.org/)
   - Visualize the soil raster data in QGIS
  
- ## Week 10 - Global soil data
+## Week 10 - Global soil data
 
 - Topics:
-  -  [How  SoilGrids are obtained?](https://soil.copernicus.org/articles/7/217/2021/)
+  -  [How SoilGrids are obtained?](https://soil.copernicus.org/articles/7/217/2021/)
 
 - Practical activities:
   - [How to automate SoilGrids downloading?]
