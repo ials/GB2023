@@ -11,8 +11,8 @@ This is the main communication site for the course. Here you will find the lectu
 
 ## [Programación detallada](https://drive.google.com/file/d/1nbrdER-UEPLDCLQSuEC99QZfypi8wpgG/view?usp=sharing)
 
-
 ## Schedule
+
 ## Week 1 – Geospatial data and information – 8 - 9 February
 
 - Theory:
