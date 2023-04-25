@@ -168,17 +168,20 @@ This is the main communication site for the course. Here you will find the lectu
  - Independent work:
    - Make sure you have merged your raster soil data before 15th April 2023.
    
-## Week 11 – Global Navegation Satellite Systems 
+## Week 11 – Global Navegation Satellite Systems (GNSS)
 
 - Lecture:
-  - [W8- Global Navegation Satellite Systems](https://drive.google.com/file/d/1GyGIJuZi2XXlvY4uk9EDVJcckDRssTFC/view)
+  - [Basics of GNSS](https://unstats.un.org/unsd/geoinfo/ungegn/docs/Training/Manila/day%202/08_MAROHOM_GNSS_Demo.pdf)
+  - [GPX files](https://hikingguy.com/how-to-hike/what-is-a-gpx-file/) 
+  - [GNSS receivers](https://home.csis.u-tokyo.ac.jp/~dinesh/GNSS_Train_files/201901/LectureNotes/Gabriella/3-GNSS%20Receivers.pdf)
 
-- Readings:
-  - [How to plot GPX tracks with R](https://rpubs.com/ials2un/gpx1)
+- Reading:
   - [What is trilateration?](https://drive.google.com/file/d/10uHGYrgk5LjkQZw5U0H8hjyx_VuyPiGw/view)
 
 - Practical:
   - Learn to use the GARMIN GPSMap 64sc
   - Survey selected polygons, lines and points at UNAL campus
-   
+
+- Optional reading:
+  - [How to plot GPX tracks with R](https://rpubs.com/ials2un/gpx1)
 
