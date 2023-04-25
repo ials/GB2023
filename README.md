@@ -164,4 +164,21 @@ This is the main communication site for the course. Here you will find the lectu
   - [How to automate SoilGrids downloading?]
     - [Option 1](https://rpubs.com/ials2un/soilgrids_webdav)
     - [Option 2](https://github.com/ISRICWorldSoil/GSIF_tutorials/blob/master/SoilGrids250m/tutorial_SoilGrids250m.R)
+    
+ - Independent work:
+   - Make sure you have merged your raster soil data before 15th April 2023.
+   
+## Week 11 – Global Navegation Satellite Systems 
+
+- Lecture:
+  - [W8- Global Navegation Satellite Systems](https://drive.google.com/file/d/1GyGIJuZi2XXlvY4uk9EDVJcckDRssTFC/view)
+
+- Readings:
+  - [How to plot GPX tracks with R](https://rpubs.com/ials2un/gpx1)
+  - [What is trilateration?](https://drive.google.com/file/d/10uHGYrgk5LjkQZw5U0H8hjyx_VuyPiGw/view)
+
+- Practical:
+  - Learn to use the GARMIN GPSMap 64sc
+  - Survey selected polygons, lines and points at UNAL campus
+   
 
