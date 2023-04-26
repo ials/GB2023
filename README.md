@@ -166,7 +166,7 @@ This is the main communication site for the course. Here you will find the lectu
     - [Option 2](https://github.com/ISRICWorldSoil/GSIF_tutorials/blob/master/SoilGrids250m/tutorial_SoilGrids250m.R)
     
  - Independent work:
-   - Make sure you have merged your raster soil data before 15th May 2023.
+   - Make sure you have merged your raster soil data before *15th May 2023*.
    
 ## Week 11 – Global Navegation Satellite Systems (GNSS)
 
