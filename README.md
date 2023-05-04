@@ -185,3 +185,17 @@ This is the main communication site for the course. Here you will find the lectu
 - Optional reading:
   - [How to plot GPX tracks with R](https://rpubs.com/ials2un/gpx1)
 
+
+## Week 12 – Spatial accuracy of handheld GNSS receivers
+
+- Lecture:
+  - How to measure spatial accuracy of waypoints, tracks and polygons?
+
+- Reading:
+  - [NSSDA spatial data accuracy](https://www.fgdc.gov/standards/projects/accuracy/part3/chapter3)
+     - Study Appendix 3-A
+
+- Practical:
+  - Complete the UNAL campus survey (5 polygons, 5 lines and 20 points)
+
+
