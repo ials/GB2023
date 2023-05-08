@@ -198,4 +198,20 @@ This is the main communication site for the course. Here you will find the lectu
 - Practical:
   - Complete the UNAL campus survey (5 polygons, 5 lines and 20 points)
 
+## [Notas Informe No. 1 (08.05.2023)](https://drive.google.com/file/d/12iQEk_S_1Z4Q2clgCy7y_wtk6T54LOg2/view?usp=sharing)
+
+## Week 13 - Digital elevation models
+
+- Lecture:
+  - What is a DEM
+  - DSM vs DTM
+  - Geomorphometric variables
+
+- Practical:
+  - Download DEM data for your department
+  - Compute slope and aspect
+
+
+
+
 
