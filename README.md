@@ -211,6 +211,10 @@ This is the main communication site for the course. Here you will find the lectu
   - Download DEM data for your department
   - Compute slope and aspect
 
+- *Start replicating the DEM notebook in your study area* (deadline: 31-05-2023)
+
+## [Notas Examen No. 1 (11.05.2023](https://drive.google.com/file/d/1DzTcDzFnt7iEIfAtWAbP-EffzXGSTF6E/view?usp=sharing)
+
 
 
 
