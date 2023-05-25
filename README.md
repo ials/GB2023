@@ -215,7 +215,20 @@ This is the main communication site for the course. Here you will find the lectu
 
 ## [Notas Examen No. 1 (11.05.2023](https://drive.google.com/file/d/1DzTcDzFnt7iEIfAtWAbP-EffzXGSTF6E/view?usp=sharing)
 
+## Week 14 - Spatial interpolation
 
+- [Lecture](https://docs.google.com/presentation/d/14xtqrIHOsBsuv481cai4XtFdqsGsJKqt/edit?usp=share_link&ouid=101294548671143516389&rtpof=true&sd=true)
+  - What is interpolation?
+  - Importance of interpolation
+  - Methods for interpolation
+    - IDW
+    - Kriging
+
+- Example of interpolation
+  - [Soil moisture](https://rpubs.com/ials2un/laaspint)
+
+- Independent work
+  - *Complete the DEM notebook* (deadline: 31-05-2023)
 
 
 
