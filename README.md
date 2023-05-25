@@ -213,7 +213,7 @@ This is the main communication site for the course. Here you will find the lectu
 
 - *Start replicating the DEM notebook in your study area* (deadline: 31-05-2023)
 
-## [Notas Examen No. 1 (11.05.2023](https://drive.google.com/file/d/1DzTcDzFnt7iEIfAtWAbP-EffzXGSTF6E/view?usp=sharing)
+## [Notas Examen No. 1 (11.05.2023)](https://drive.google.com/file/d/1DzTcDzFnt7iEIfAtWAbP-EffzXGSTF6E/view?usp=sharing)
 
 ## Week 14 - Spatial interpolation
 
@@ -223,6 +223,8 @@ This is the main communication site for the course. Here you will find the lectu
   - Methods for interpolation
     - IDW
     - Kriging
+
+- [Virtual session on 25.05.2023](https://drive.google.com/file/d/103h3zvDoqCZ0MKkMLVkgr0Lg0c8enF_4/view?usp=sharing)
 
 - Example of interpolation
   - [Soil moisture](https://rpubs.com/ials2un/laaspint)
