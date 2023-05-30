@@ -232,5 +232,16 @@ This is the main communication site for the course. Here you will find the lectu
 - Independent work
   - *Complete the DEM notebook* (deadline: 31-05-2023)
 
+## Week 15 - Spatial interpolation in practice
+
+- Lecture:
+  - [SOC interpolation](https://rpubs.com/ials2un/soc_interp)
+
+- Practical:
+  - SOC interpolation for your study area
+
+- Independent work
+  - *Complete the SOC interpolation notebook* (deadline: 21-06-2023)
+
 
 
