@@ -240,8 +240,17 @@ This is the main communication site for the course. Here you will find the lectu
 - Practical:
   - SOC interpolation for your study area
 
-- Independent work
-  - *Complete the SOC interpolation notebook* (deadline: 21-06-2023)
+- Independent work:
+  - [*Complete the SOC interpolation notebook*](https://rpubs.com/ials2un/soc_interp) (deadline: 21-06-2023)
 
+## Week 16 - Open geospatial data
 
+- Lecture:
+  - [Geospatial web services](https://gis4schools.readthedocs.io/en/latest/part2/2_1.html)
+  - [Datos abiertos de Colombia](https://datos.gov.co/)
 
+- Practical:
+  - [Connect to the ortoimagen de Bogotá 2020](https://datosabiertos.bogota.gov.co/dataset/7dfc3d91-96db-46ef-b331-5586d78d6a2a?_external=True)
+
+- Independent work:
+  - [*Complete the SOC interpolation notebook*](https://rpubs.com/ials2un/soc_interp) (deadline: 21-06-2023)
