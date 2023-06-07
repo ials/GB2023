@@ -250,8 +250,10 @@ This is the main communication site for the course. Here you will find the lectu
   - [Datos abiertos de Colombia](https://datos.gov.co/)
   - See the 07.06.2023 recording [here](https://drive.google.com/file/d/15XRiJzQ96DoWESAJqNfsY-XNsH2l1kvB/view?usp=sharing) 
 
-- Practical:
+- QGIS Practical:
   - [Connect to the ortoimagen de Bogotá 2020](https://datosabiertos.bogota.gov.co/dataset/7dfc3d91-96db-46ef-b331-5586d78d6a2a?_external=True)
+  - Create and populate vector layers over the UNAL campus
+  - Read GPX data acquired in the campus 
 
 - Independent work:
   - [*Complete the SOC interpolation notebook*](https://rpubs.com/ials2un/soc_interp) (deadline: 21-06-2023)
