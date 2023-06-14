@@ -265,7 +265,7 @@ This is the main communication site for the course. Here you will find the lectu
 
 - Independent work:
   - **Prepare Examen No. 2**
-    - Examen presencial - Fecha: 24.06.2023 - 9:00 am
+    - Examen presencial - Fecha: 21.06.2023 - 9:00 am
   - **Complete Informe No. 2**
-    - Reporte de interpolación - Fecha línite: 25.06.2023 - 11:59 pm
+    - Reporte de interpolación - Fecha línite: 22.06.2023 - 11:59 pm
   
