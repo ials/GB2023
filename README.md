@@ -257,3 +257,15 @@ This is the main communication site for the course. Here you will find the lectu
 
 - Independent work:
   - [*Complete the SOC interpolation notebook*](https://rpubs.com/ials2un/soc_interp) (deadline: 21-06-2023)
+ 
+## Week 17 -  Questions
+
+- Lecture:
+  - [Refresher of week 16 contents](https://drive.google.com/file/d/1VZ7J4p0BbCTtEGxFJ_L4AGTyKoNZq3Hl/view?usp=sharing)
+
+- Independent work:
+  - **Prepare Examen No. 2**
+    - Examen presencial - Fecha: 24.06.2023 - 9:00 am
+  - **Complete Informe No. 2**
+    - Reporte de interpolación - Fecha línite: 25.06.2023 - 11:59 pm
+  
