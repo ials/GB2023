@@ -268,4 +268,6 @@ This is the main communication site for the course. Here you will find the lectu
     - Examen presencial - Fecha: 21.06.2023 - 9:00 am
   - **Complete Informe No. 2**
     - Reporte de interpolación - Fecha límite: 22.06.2023 - 11:59 pm
+   
+- [Notas Parciales - 15.06.2023](https://drive.google.com/file/d/1VbqMVKJxmZVQ5qRdU7QWgyKXe-Xv422s/view?usp=sharing)
   
