@@ -270,4 +270,10 @@ This is the main communication site for the course. Here you will find the lectu
     - Reporte de interpolación - Fecha límite: 22.06.2023 - 11:59 pm
    
 - [Notas Parciales - 15.06.2023](https://drive.google.com/file/d/1VbqMVKJxmZVQ5qRdU7QWgyKXe-Xv422s/view?usp=sharing)
-  
+
+## Week 18 - Final examinations
+
+- Examen 2 - 21.06.2023 at 9:00 a.m.
+  - [Notas Examen 2](https://drive.google.com/file/d/1aeSp6sllVdzXoGUPq5gcOi4YObOlmX3y/view?usp=sharing)
+
+- Cuaderno Interpolación - 22.06.2023 at 11:59 p.m.
