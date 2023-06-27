@@ -277,3 +277,6 @@ This is the main communication site for the course. Here you will find the lectu
   - [Notas Examen 2](https://drive.google.com/file/d/1aeSp6sllVdzXoGUPq5gcOi4YObOlmX3y/view?usp=sharing)
 
 - Cuaderno Interpolación - 22.06.2023 at 11:59 p.m.
+
+- Informe No.2 -  DEM & Interpolation
+  - [Notas Informe 2](https://drive.google.com/file/d/1aVhhomCNwhxV0Qh4F_87tzKr8ILT4bfp/view?usp=sharing)
