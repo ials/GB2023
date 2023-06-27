@@ -280,3 +280,7 @@ This is the main communication site for the course. Here you will find the lectu
 
 - Informe No.2 -  DEM & Interpolation
   - [Notas Informe 2](https://drive.google.com/file/d/1aVhhomCNwhxV0Qh4F_87tzKr8ILT4bfp/view?usp=sharing)
+ 
+## Notas consolidadas - 27.06.2023
+
+- [Notas](https://drive.google.com/file/d/1vFMvVGqFWBIMCBO89Thvgkicjr2IH67g/view?usp=sharing)
